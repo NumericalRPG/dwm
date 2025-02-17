@@ -1,5 +1,0 @@
-2025-02-14 23:06:53.433 [info] [основное] Уровень ведения журнала: Info
-2025-02-14 23:06:53.433 [info] [основное] Проверка найденного Git в: "git"
-2025-02-14 23:06:53.433 [info] [основное] Используется Git "2.48.1" из "git"
-2025-02-14 23:06:53.433 [info] [Model][doInitialScan] Initial repository scan started
-2025-02-14 23:06:53.433 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)

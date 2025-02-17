@@ -1,7 +1,0 @@
-2025/02/15-13:46:27.543 857 Reusing MANIFEST /home/albert/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/15-13:46:27.543 857 Recovering log #3
-2025/02/15-13:46:27.543 857 Reusing old log /home/albert/.config/chromium/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
-2025/02/15-13:46:30.572 859 Level-0 table #5: started
-2025/02/15-13:46:30.574 859 Level-0 table #5: 8722 bytes OK
-2025/02/15-13:46:30.576 859 Delete type=0 #3
-2025/02/15-13:46:30.576 857 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

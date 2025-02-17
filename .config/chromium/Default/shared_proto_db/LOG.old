@@ -1,6 +1,0 @@
-2025/02/17-14:45:26.248 565 Reusing MANIFEST /home/albert/.config/chromium/Default/shared_proto_db/MANIFEST-000001
-2025/02/17-14:45:26.248 565 Recovering log #3
-2025/02/17-14:45:26.252 565 Reusing old log /home/albert/.config/chromium/Default/shared_proto_db/000003.log 
-2025/02/17-14:45:56.301 563 Level-0 table #5: started
-2025/02/17-14:45:56.308 563 Level-0 table #5: 95114 bytes OK
-2025/02/17-14:45:56.310 563 Delete type=0 #3

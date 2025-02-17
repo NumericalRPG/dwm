@@ -1,7 +1,0 @@
-2025/02/16-18:53:09.499 ef3 Reusing MANIFEST /home/albert/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/02/16-18:53:09.499 ef3 Recovering log #3
-2025/02/16-18:53:09.500 ef3 Reusing old log /home/albert/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/000003.log 
-2025/02/16-18:53:12.533 ef2 Level-0 table #5: started
-2025/02/16-18:53:12.535 ef2 Level-0 table #5: 4123 bytes OK
-2025/02/16-18:53:12.537 ef2 Delete type=0 #3
-2025/02/16-18:53:12.538 ef2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
