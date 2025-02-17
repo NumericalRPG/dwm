@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2xfO5zhgWI=",
+  "success": true,
+  "projectFilePath": "/home/albert/Документы/StudentC#/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/home/albert/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/albert/Документы/StudentC#/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
