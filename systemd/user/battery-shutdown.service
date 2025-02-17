@@ -1,0 +1,9 @@
+[Unit]
+Description=Battery Shutdown Timer Service
+
+[Service]
+ExecStart=/home/ВАШ_ПОЛЬЗОВАТЕЛЬ/.config/dunst/battery_shutdown_timer.sh
+Restart=on-failure
+
+[Install]
+WantedBy=default.target

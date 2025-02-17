@@ -1,0 +1,138 @@
+2025-02-14 23:10:01.210 [trace] [File Watcher (node.js)] Request to start watching: /home/albert/.config/Code/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:01.210 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/albert/.config/Code/User/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/albert/.config/Code/User/settings.json')
+2025-02-14 23:10:01.210 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/albert/.config/Code/User/settings.json (correlationId: undefined)
+2025-02-14 23:10:01.210 [debug] Starting VS Code
+2025-02-14 23:10:01.210 [debug] from: /opt/visual-studio-code/resources/app
+2025-02-14 23:10:01.210 [debug] args: {"_":[],"diff":false,"merge":false,"add":false,"remove":false,"goto":false,"new-window":false,"reuse-window":false,"wait":false,"help":false,"list-extensions":false,"show-versions":false,"pre-release":false,"update-extensions":false,"version":false,"verbose":true,"status":false,"prof-startup":false,"no-cached-data":false,"prof-v8-extensions":false,"disable-extensions":false,"disable-lcd-text":false,"disable-gpu":false,"disable-chromium-sandbox":false,"sandbox":false,"telemetry":false,"debugRenderer":false,"enable-smoke-test-driver":false,"logExtensionHostCommunication":false,"skip-release-notes":false,"skip-welcome":false,"disable-telemetry":false,"disable-updates":false,"use-inmemory-secretstorage":false,"disable-workspace-trust":false,"disable-crash-reporter":false,"crash-reporter-id":"0160beef-01ce-4e99-abb5-65a6bbfef6db","skip-add-to-recently-opened":false,"open-url":false,"file-write":false,"file-chmod":false,"force":false,"do-not-sync":false,"do-not-include-pack-dependencies":false,"trace":false,"preserve-env":false,"force-user-env":false,"force-disable-user-env":false,"open-devtools":false,"disable-gpu-sandbox":false,"__enable-file-policy":false,"enable-coi":false,"no-proxy-server":false,"no-sandbox":false,"nolazy":false,"force-renderer-accessibility":false,"ignore-certificate-errors":false,"allow-insecure-localhost":false,"vmodule":"*/components/os_crypt/*=1","disable-dev-shm-usage":false,"profile-temp":false,"logsPath":"/home/albert/.config/Code/logs/20250214T231001"}
+2025-02-14 23:10:01.210 [trace] Resolving machine identifier...
+2025-02-14 23:10:01.210 [trace] Resolved machine identifier: b34984a6495330b4a730be4f93236e1902f22261b41a7e6e28375ddee09f797e
+2025-02-14 23:10:01.210 [trace] Main->SharedProcess#connect
+2025-02-14 23:10:01.210 [trace] [File Watcher (node.js)] Started watching: '/home/albert/.config/Code/User'
+2025-02-14 23:10:01.210 [trace] StorageMainService: creating application storage
+2025-02-14 23:10:01.210 [trace] ElectronURLListener: waiting for window to be ready to handle URLs...
+2025-02-14 23:10:01.210 [trace] lifecycle (main): phase changed (value: 2)
+2025-02-14 23:10:01.210 [trace] windowsManager#open
+2025-02-14 23:10:01.210 [trace] windowsManager#open pathsToOpen [{"backupPath":"/home/albert/.config/Code/Backups/1739545597224"}]
+2025-02-14 23:10:01.210 [trace] windowsManager#doOpenEmpty {"restore":true,"forceNewWindow":true}
+2025-02-14 23:10:01.210 [trace] IPC Object URL: Registered new channel vscode:649ddf70-0a32-43eb-942c-4f14660ee8eb.
+2025-02-14 23:10:01.210 [trace] window#validateWindowState: validating window state on 1 display(s) {"mode":1,"x":708,"y":27,"width":691,"height":845}
+2025-02-14 23:10:01.210 [trace] window#validateWindowState: single monitor working area {"x":0,"y":0,"width":1408,"height":880}
+2025-02-14 23:10:01.210 [trace] window#ctor: using window state {"mode":1,"x":708,"y":27,"width":691,"height":845}
+2025-02-14 23:10:01.210 [trace] window#load: attempt to load window (id: 1)
+2025-02-14 23:10:01.210 [trace] windowsManager#open used window count 1 (workspacesToOpen: 0, foldersToOpen: 0, emptyToRestore: 1, maybeOpenEmptyWindow: false)
+2025-02-14 23:10:01.210 [trace] lifecycle (main): phase changed (value: 3)
+2025-02-14 23:10:01.210 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-02-14 23:10:01.210 [info] update#setState idle
+2025-02-14 23:10:01.249 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-02-14 23:10:01.419 [trace] StorageMainService: creating workspace storage (1739545597224)
+2025-02-14 23:10:01.603 [trace] window#load: window reported ready (id: 1)
+2025-02-14 23:10:01.604 [trace] ElectronURLListener#flush(): flushing URLs
+2025-02-14 23:10:01.616 [trace] [SharedProcess] onWindowConnection for: vscode:createSharedProcessChannelConnectionResult
+2025-02-14 23:10:01.617 [trace] [UtilityProcess type: shared-process, pid: <none>]: creating new...
+2025-02-14 23:10:01.621 [trace] [UtilityProcess type: shared-process, pid: <none>]: payload sent via postMessage()
+2025-02-14 23:10:01.622 [trace] [UtilityProcessWorker]: createWorker(window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2025-02-14 23:10:01.623 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: <none>]: creating new...
+2025-02-14 23:10:01.627 [trace] [UtilityProcess type: shared-process, pid: 48055]: successfully created
+2025-02-14 23:10:01.628 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 48056]: successfully created
+2025-02-14 23:10:01.633 [trace] menubarService#updateMenubar 1
+2025-02-14 23:10:01.667 [trace] [UtilityProcess id: 1, type: extensionHost, pid: <none>]: creating new...
+2025-02-14 23:10:01.673 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 48075]: successfully created
+2025-02-14 23:10:01.749 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-02-14 23:10:01.783 [debug] Terminal profile not validated tmux ["tmux"]
+2025-02-14 23:10:01.783 [debug] Terminal profile not validated zsh ["zsh"]
+2025-02-14 23:10:01.783 [debug] Terminal profile not validated pwsh ["pwsh"]
+2025-02-14 23:10:01.826 [trace] [SharedProcess] IPC ready
+2025-02-14 23:10:01.827 [trace] Main->SharedProcess#connect: connection established
+2025-02-14 23:10:01.837 [trace] [File Watcher (node.js)] Request to start watching: /home/albert/.config/Code/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:01.838 [trace] [File Watcher (node.js)] ignoring a path for watching who's stat info failed to resolve: /home/albert/.config/Code/User/settings.json (error: Error: ENOENT: no such file or directory, stat '/home/albert/.config/Code/User/settings.json')
+2025-02-14 23:10:01.838 [trace] [File Watcher (node.js)] starting fs.watchFile() on /home/albert/.config/Code/User/settings.json (correlationId: undefined)
+2025-02-14 23:10:01.840 [trace] [File Watcher (node.js)] Started watching: '/home/albert/.config/Code/User'
+2025-02-14 23:10:01.857 [trace] [SharedProcess] Overall ready
+2025-02-14 23:10:01.871 [trace] [File Watcher (node.js)] Request to start watching: /home/albert/.vscode/extensions (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>),/home/albert/.vscode/extensions/extensions.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:01.871 [trace] [File Watcher (node.js)] Request to stop watching: /home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:01.871 [trace] [File Watcher (node.js)] stopping file watcher (/home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-02-14 23:10:01.883 [trace] [File Watcher (node.js)] Started watching: '/home/albert/.vscode/extensions'
+2025-02-14 23:10:01.889 [trace] [File Watcher (node.js)] Started watching: '/home/albert/.vscode/extensions/extensions.json'
+2025-02-14 23:10:01.899 [trace] [File Watcher (node.js)] Request to stop watching: /home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:01.900 [trace] [File Watcher (node.js)] stopping file watcher (/home/albert/.config/Code/User/settings.json (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-02-14 23:10:01.928 [trace] resolveShellEnv(): skipped (VSCODE_CLI is set)
+2025-02-14 23:10:01.929 [trace] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/e54c774e0add60467559eb0d1e229c6452cf8447 - begin undefined {}
+2025-02-14 23:10:02.134 [trace] [EncryptionMainService] Checking if encryption is available...
+2025-02-14 23:10:02.134 [trace] [EncryptionMainService] Encryption is available:  false
+2025-02-14 23:10:02.479 [trace] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/e54c774e0add60467559eb0d1e229c6452cf8447 - end undefined 204 {"access-control-allow-origin":"*","date":"Fri, 14 Feb 2025 15:10:02 GMT","request-context":"appId=cid-v1:8109e553-6232-492a-afca-b78cea9b431c","strict-transport-security":"max-age=31536000; includeSubDomains","x-azure-ref":"20250214T151002Z-15f7977cb94cvh8ghC1STOpzag0000000bt0000000009u4d","x-cache":"CONFIG_NOCACHE","x-content-type-options":"nosniff","x-powered-by":"Express","x-source-commit":"ec889288e272a7cf2166c86c73aa9424bf003814"}
+2025-02-14 23:10:02.622 [trace] menubarService#updateMenubar 1
+2025-02-14 23:10:02.978 [debug] ProxyResolver#loadSystemCertificates count 151
+2025-02-14 23:10:02.978 [debug] ProxyResolver#loadSystemCertificates parse error Error: error:0900006e:PEM routines:OPENSSL_internal:NO_START_LINE
+    at new X509Certificate (node:internal/crypto/x509:119:21)
+    at /opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:742:48
+    at Array.filter (<anonymous>)
+    at Module.<anonymous> (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:740:26)
+    at Generator.next (<anonymous>)
+    at fulfilled (/opt/visual-studio-code/resources/app/node_modules/@vscode/proxy-agent/out/index.js:32:58)
+2025-02-14 23:10:02.982 [debug] ProxyResolver#loadSystemCertificates count filtered 150
+2025-02-14 23:10:03.658 [trace] lifecycle (main): phase changed (value: 4)
+2025-02-14 23:10:03.872 [trace] menubarService#updateMenubar 1
+2025-02-14 23:10:04.053 [trace] [EncryptionMainService] Getting selected storage backend...
+2025-02-14 23:10:04.054 [trace] [EncryptionMainService] Selected storage backend:  basic_text
+2025-02-14 23:10:11.405 [trace] menubarService#updateMenubar 1
+2025-02-14 23:10:11.608 [trace] Lifecycle#window.on('close') - window ID 1
+2025-02-14 23:10:11.608 [trace] Lifecycle#unload() - window ID 1
+2025-02-14 23:10:11.617 [trace] [UtilityProcess type: ptyHost, pid: <none>]: creating new...
+2025-02-14 23:10:11.622 [trace] PtyHostService#_startPtyHost 
+    at ku.U (file:///opt/visual-studio-code/resources/app/out/main.js:77:3012)
+    at ku.h (file:///opt/visual-studio-code/resources/app/out/main.js:77:1515)
+    at get f (file:///opt/visual-studio-code/resources/app/out/main.js:77:1465)
+    at ku.setTerminalLayoutInfo (file:///opt/visual-studio-code/resources/app/out/main.js:77:5853)
+    at Object.call (file:///opt/visual-studio-code/resources/app/out/main.js:33:4564)
+    at wf.s (file:///opt/visual-studio-code/resources/app/out/main.js:31:20009)
+    at wf.q (file:///opt/visual-studio-code/resources/app/out/main.js:31:19532)
+    at Ho.value (file:///opt/visual-studio-code/resources/app/out/main.js:31:18934)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at D.C (file:///opt/visual-studio-code/resources/app/out/main.js:30:2443)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2660)
+    at Ho.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:4893)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at Ho.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5077)
+    at D.B (file:///opt/visual-studio-code/resources/app/out/main.js:30:2373)
+    at D.fire (file:///opt/visual-studio-code/resources/app/out/main.js:30:2591)
+    at T (file:///opt/visual-studio-code/resources/app/out/main.js:28:7328)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:33:20534)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2025-02-14 23:10:11.625 [trace] [UtilityProcess type: ptyHost, pid: 48209]: successfully created
+2025-02-14 23:10:11.634 [trace] Lifecycle#onBeforeCloseWindow.fire() - window ID 1
+2025-02-14 23:10:11.647 [trace] IPC Object URL: Removed channel vscode:649ddf70-0a32-43eb-942c-4f14660ee8eb.
+2025-02-14 23:10:11.648 [trace] Lifecycle#window.on('closed') - window ID 1
+2025-02-14 23:10:11.648 [trace] Lifecycle#onWillShutdown.fire()
+2025-02-14 23:10:11.649 [trace] Lifecycle#onWillShutdown - begin 'instanceLockfile'
+2025-02-14 23:10:11.649 [trace] storageMainService#onWillShutdown()
+2025-02-14 23:10:11.649 [trace] Lifecycle#onWillShutdown - begin 'applicationStorage'
+2025-02-14 23:10:11.649 [trace] Lifecycle#onWillShutdown - begin 'workspaceStorage'
+2025-02-14 23:10:11.649 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 48075]: waiting to exit...
+2025-02-14 23:10:11.650 [trace] Lifecycle#onWillShutdown - begin 'extHostStarter'
+2025-02-14 23:10:11.650 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 48056]: attempting to kill the process...
+2025-02-14 23:10:11.650 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 48056]: successfully killed the process
+2025-02-14 23:10:11.650 [trace] Lifecycle#app.on(window-all-closed)
+2025-02-14 23:10:11.650 [trace] Lifecycle#app.on(before-quit)
+2025-02-14 23:10:11.650 [trace] Lifecycle#onBeforeShutdown.fire()
+2025-02-14 23:10:11.650 [trace] [WindowsStateHandler] onBeforeShutdown {"lastActiveWindow":{"backupPath":"/home/albert/.config/Code/Backups/1739545597224","uiState":{"mode":1,"x":8,"y":27,"width":691,"height":845}},"openedWindows":[]}
+2025-02-14 23:10:11.651 [trace] Lifecycle#app.on(will-quit) - begin
+2025-02-14 23:10:11.653 [trace] [UtilityProcess id: 1, type: extensionHost, pid: 48075]: received exit event with code 0
+2025-02-14 23:10:11.653 [info] Extension host with pid 48075 exited with code: 0, signal: unknown.
+2025-02-14 23:10:11.653 [trace] Lifecycle#onWillShutdown - end 'extHostStarter'
+2025-02-14 23:10:11.654 [trace] Lifecycle#onWillShutdown - end 'instanceLockfile'
+2025-02-14 23:10:11.654 [trace] [File Watcher (node.js)] stopping fs.watchFile() on /home/albert/.config/Code/User/settings.json (correlationId: undefined)
+2025-02-14 23:10:11.656 [trace] [File Watcher (node.js)] Request to stop watching: /home/albert/.config/Code/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>)
+2025-02-14 23:10:11.656 [trace] [File Watcher (node.js)] stopping file watcher (/home/albert/.config/Code/User (excludes: <none>, includes: <all>, filter: <none>, correlationId: <none>))
+2025-02-14 23:10:11.659 [trace] [UtilityProcess id: 1, type: fileWatcher, pid: 48056]: received exit event with code 0
+2025-02-14 23:10:11.659 [trace] [UtilityProcessWorker]: terminated normally with code 0, signal: unknown
+2025-02-14 23:10:11.660 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 48056]: crashed with code 15 and reason 'killed'
+2025-02-14 23:10:11.662 [trace] StorageMainService: closed workspace storage (1739545597224)
+2025-02-14 23:10:11.662 [trace] Lifecycle#onWillShutdown - end 'workspaceStorage'
+2025-02-14 23:10:11.662 [trace] StorageMainService: closed application storage
+2025-02-14 23:10:11.662 [trace] Lifecycle#onWillShutdown - end 'applicationStorage'
+2025-02-14 23:10:11.664 [trace] Lifecycle#app.on(will-quit) - after fireOnWillShutdown
+2025-02-14 23:10:11.664 [trace] Lifecycle#app.on(will-quit) - calling app.quit()
+2025-02-14 23:10:11.665 [trace] [UtilityProcess type: ptyHost, pid: 48209]: received exit event with code 0

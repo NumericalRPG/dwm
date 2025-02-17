@@ -1,0 +1,1217 @@
+14.02.2025, 23:07:33 DotnetWSLCheckEvent
+true
+Checking if system is WSL. OS: linux
+
+14.02.2025, 23:07:33 DotnetWSLOperationOutputEvent
+The output of the WSL check:
+stdout: 
+stderr: 
+status: 1
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.bat for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.clojure for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.coffeescript for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.configuration-editing for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.cpp for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.csharp for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.css-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.dart for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-auto-launch for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.debug-server-ready for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.diff for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.docker for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.emmet for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.extension-editing for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.fsharp for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.git-base for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.github-authentication for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.go for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.groovy for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.grunt for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.gulp for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.handlebars for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.hlsl for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.html-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ini for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ipynb for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.jake for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.java for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.javascript for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.json-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.julia for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.latex for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.less for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.log for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.lua for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.make for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.markdown-math for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.media-preview for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.merge-conflict for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.microsoft-authentication for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.js-debug-companion for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-vscode.vscode-js-profile-table for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.builtin-notebook-renderers for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.npm for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.objective-c for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.perl for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.php-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.powershell for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.pug for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.python for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.r for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.razor for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.references-view for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.restructuredtext for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.ruby for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.rust for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.scss for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.search-result for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shaderlab for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.shellscript for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.simple-browser for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.sql for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.swift for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.terminal-suggest for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-abyss for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-defaults for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-kimbie-dark for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-monokai-dimmed for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-quietlight for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-red for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vscode-theme-seti for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-dark for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-solarized-light for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.theme-tomorrow-night-blue for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.tunnel-forwarding for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.typescript-language-features for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.vb for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.xml for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension vscode.yaml for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension MS-CEINTL.vscode-language-pack-ru for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csdevkit for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.csharp for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetVSCodeExtensionFound
+true
+Checking extension ms-dotnettools.vscode-dotnet-runtime for .NET installation requests
+
+14.02.2025, 23:07:33 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"8.0.10","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"greater_than_or_equal"}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.553Z
+"" --list-runtimes{"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+undefined
+
+14.02.2025, 23:07:33 CommandExecutionEvent
+Executing command "" --list-runtimes
+with options {"dotnetInstallToolCacheTtlMs":3000,"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}.
+
+14.02.2025, 23:07:33 CommandExecutionStatusEvent
+The command "" --list-runtimes exited
+        with status: 127.
+
+14.02.2025, 23:07:33 CommandExecutionSignalSentEvent
+The command "" --list-runtimes exited
+with signal: undefined.
+
+14.02.2025, 23:07:33 CommandExecutionStdOut
+The command "" --list-runtimes encountered stdout:
+
+
+14.02.2025, 23:07:33 CommandExecutionStdError
+The command "" --list-runtimes encountered stderr:
+/bin/sh: строка 1: : команда не найдена
+
+
+14.02.2025, 23:07:33 CachePutEvent
+Adding to the cache at 2025-02-14T15:07:33.561Z
+"" --list-runtimes{"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"127","stderr":"/bin/sh: строка 1: : команда не найдена\n","stdout":""}
+3000
+
+14.02.2025, 23:07:33 DotnetFindPathNoRuntimesOnHost
+The host:  does not contain a .NET runtime installation.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.562Z
+env {"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+undefined
+
+14.02.2025, 23:07:33 CommandExecutionEvent
+Executing command env 
+with options {"dotnetInstallToolCacheTtlMs":3000,"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}.
+
+14.02.2025, 23:07:33 CommandExecutionStatusEvent
+The command env  exited
+        with status: 0.
+
+14.02.2025, 23:07:33 CommandExecutionSignalSentEvent
+The command env  exited
+with signal: undefined.
+
+14.02.2025, 23:07:33 CommandExecutionStdOut
+The command env  encountered stdout:
+SHELL=/usr/bin/fish
+LC_ADDRESS=ru_RU.UTF-8
+LC_NAME=ru_RU.UTF-8
+ELECTRON_RUN_AS_NODE=1
+LC_MONETARY=ru_RU.UTF-8
+NO_AT_BRIDGE=1
+EDITOR=nano
+XDG_SEAT=seat0
+PWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist
+LOGNAME=albert
+XDG_SESSION_TYPE=tty
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447
+_=/usr/bin/env
+XAUTHORITY=/home/albert/.Xauthority
+DOTNET_MULTILEVEL_LOOKUP=0
+WINDOWPATH=1
+MOTD_SHOWN=pam
+HOME=/home/albert
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert
+VSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock
+VSCODE_CLI=1
+CHROME_DESKTOP=code.desktop
+XDG_SESSION_CLASS=user
+TERM=linux
+LC_IDENTIFICATION=ru_RU.UTF-8
+USER=albert
+DISPLAY=:0
+VSCODE_PID=46477
+SHLVL=4
+LC_TELEPHONE=ru_RU.UTF-8
+LC_MEASUREMENT=ru_RU.UTF-8
+VSCODE_CWD=/home/albert
+XDG_VTNR=1
+XDG_SESSION_ID=1
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+ELECTRON_NO_ATTACH_CONSOLE=1
+GDK_BACKEND=x11
+BROWSER=firefox
+PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+VSCODE_NLS_CONFIG={"userLocale":"ru","osLocale":"ru-ru","resolvedLanguage":"ru","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","languagePack":{"translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","messagesFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json","corruptMarkerFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"},"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"a504866c86de1dc4be750db93b16b843.ru","_languagePackSupport":true,"_translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","_cacheRoot":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru","_resolvedLanguagePackCoreLocation":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447","_corruptedFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"}
+MAIL=/var/spool/mail/albert
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+LC_NUMERIC=ru_RU.UTF-8
+
+
+14.02.2025, 23:07:33 CommandExecutionStdError
+The command env  encountered stderr:
+
+
+14.02.2025, 23:07:33 CachePutEvent
+Adding to the cache at 2025-02-14T15:07:33.567Z
+env {"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"0","stderr":"","stdout":"SHELL=/usr/bin/fish\nLC_ADDRESS=ru_RU.UTF-8\nLC_NAME=ru_RU.UTF-8\nELECTRON_RUN_AS_NODE=1\nLC_MONETARY=ru_RU.UTF-8\nNO_AT_BRIDGE=1\nEDITOR=nano\nXDG_SEAT=seat0\nPWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist\nLOGNAME=albert\nXDG_SESSION_TYPE=tty\nVSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess\nVSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447\n_=/usr/bin/env\nXAUTHORITY=/home/albert/.Xauthority\nDOTNET_MULTILEVEL_LOOKUP=0\nWINDOWPATH=1\nMOTD_SHOWN=pam\nHOME=/home/albert\nLC_PAPER=ru_RU.UTF-8\nLANG=ru_RU.UTF-8\nVSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert\nVSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock\nVSCODE_CLI=1\nCHROME_DESKTOP=code.desktop\nXDG_SESSION_CLASS=user\nTERM=linux\nLC_IDENTIFICATION=ru_RU.UTF-8\nUSER=albert\nDISPLAY=:0\nVSCODE_PID=46477\nSHLVL=4\nLC_TELEPHONE=ru_RU.UTF-8\nLC_MEASUREMENT=ru_RU.UTF-8\nVSCODE_CWD=/home/albert\nXDG_VTNR=1\nXDG_SESSION_ID=1\nVSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost\nXDG_RUNTIME_DIR=/run/user/1000\nLC_TIME=ru_RU.UTF-8\nELECTRON_NO_ATTACH_CONSOLE=1\nGDK_BACKEND=x11\nBROWSER=firefox\nPATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nORIGINAL_XDG_CURRENT_DESKTOP=undefined\nDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\nVSCODE_NLS_CONFIG={\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}\nMAIL=/var/spool/mail/albert\nVSCODE_HANDLES_UNCAUGHT_ERRORS=true\nLC_NUMERIC=ru_RU.UTF-8\n"}
+3000
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.567Z
+env bash{"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+undefined
+
+14.02.2025, 23:07:33 CommandExecutionEvent
+Executing command env bash
+with options {"dotnetInstallToolCacheTtlMs":3000,"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}.
+
+14.02.2025, 23:07:33 CommandExecutionStatusEvent
+The command env bash exited
+        with status: 0.
+
+14.02.2025, 23:07:33 CommandExecutionSignalSentEvent
+The command env bash exited
+with signal: undefined.
+
+14.02.2025, 23:07:33 CommandExecutionStdOut
+The command env bash encountered stdout:
+
+
+14.02.2025, 23:07:33 CommandExecutionStdError
+The command env bash encountered stderr:
+
+
+14.02.2025, 23:07:33 CachePutEvent
+Adding to the cache at 2025-02-14T15:07:33.574Z
+env bash{"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":""}
+3000
+
+14.02.2025, 23:07:33 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl.
+Executor Path: SHELL=/usr/bin/fish
+LC_ADDRESS=ru_RU.UTF-8
+LC_NAME=ru_RU.UTF-8
+ELECTRON_RUN_AS_NODE=1
+LC_MONETARY=ru_RU.UTF-8
+NO_AT_BRIDGE=1
+EDITOR=nano
+XDG_SEAT=seat0
+PWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist
+LOGNAME=albert
+XDG_SESSION_TYPE=tty
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447
+_=/usr/bin/env
+XAUTHORITY=/home/albert/.Xauthority
+DOTNET_MULTILEVEL_LOOKUP=0
+WINDOWPATH=1
+MOTD_SHOWN=pam
+HOME=/home/albert
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert
+VSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock
+VSCODE_CLI=1
+CHROME_DESKTOP=code.desktop
+XDG_SESSION_CLASS=user
+TERM=linux
+LC_IDENTIFICATION=ru_RU.UTF-8
+USER=albert
+DISPLAY=:0
+VSCODE_PID=46477
+SHLVL=4
+LC_TELEPHONE=ru_RU.UTF-8
+LC_MEASUREMENT=ru_RU.UTF-8
+VSCODE_CWD=/home/albert
+XDG_VTNR=1
+XDG_SESSION_ID=1
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+ELECTRON_NO_ATTACH_CONSOLE=1
+GDK_BACKEND=x11
+BROWSER=firefox
+PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+VSCODE_NLS_CONFIG={"userLocale":"ru","osLocale":"ru-ru","resolvedLanguage":"ru","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","languagePack":{"translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","messagesFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json","corruptMarkerFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"},"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"a504866c86de1dc4be750db93b16b843.ru","_languagePackSupport":true,"_translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","_cacheRoot":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru","_resolvedLanguagePackCoreLocation":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447","_corruptedFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"}
+MAIL=/var/spool/mail/albert
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+LC_NUMERIC=ru_RU.UTF-8
+
+
+Bin Bash Path: 
+
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.574Z
+which which{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+undefined
+
+14.02.2025, 23:07:33 CommandExecutionEvent
+Executing command which which
+with options {"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","dotnetInstallToolCacheTtlMs":30000,"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}.
+
+14.02.2025, 23:07:33 CommandExecutionStatusEvent
+The command which which exited
+        with status: 0.
+
+14.02.2025, 23:07:33 CommandExecutionSignalSentEvent
+The command which which exited
+with signal: undefined.
+
+14.02.2025, 23:07:33 CommandExecutionStdOut
+The command which which encountered stdout:
+/usr/bin/which
+
+
+14.02.2025, 23:07:33 CommandExecutionStdError
+The command which which encountered stderr:
+
+
+14.02.2025, 23:07:33 CachePutEvent
+Adding to the cache at 2025-02-14T15:07:33.583Z
+which which{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":"/usr/bin/which\n"}
+30000
+
+14.02.2025, 23:07:33 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.584Z
+which dotnet{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+undefined
+
+14.02.2025, 23:07:33 CommandExecutionEvent
+Executing command which dotnet
+with options {"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","dotnetInstallToolCacheTtlMs":3000,"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}.
+
+14.02.2025, 23:07:33 CommandExecutionStatusEvent
+The command which dotnet exited
+        with status: 1.
+
+14.02.2025, 23:07:33 CommandExecutionSignalSentEvent
+The command which dotnet exited
+with signal: undefined.
+
+14.02.2025, 23:07:33 CommandExecutionStdOut
+The command which dotnet encountered stdout:
+
+
+14.02.2025, 23:07:33 CommandExecutionStdError
+The command which dotnet encountered stderr:
+which: no dotnet in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)
+
+
+14.02.2025, 23:07:33 CachePutEvent
+Adding to the cache at 2025-02-14T15:07:33.592Z
+which dotnet{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"1","stderr":"which: no dotnet in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)\n","stdout":""}
+3000
+
+14.02.2025, 23:07:33 DotnetFindPathLookupRealPATH
+Looking up .NET on the real path.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.594Z
+env {"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"0","stderr":"","stdout":"SHELL=/usr/bin/fish\nLC_ADDRESS=ru_RU.UTF-8\nLC_NAME=ru_RU.UTF-8\nELECTRON_RUN_AS_NODE=1\nLC_MONETARY=ru_RU.UTF-8\nNO_AT_BRIDGE=1\nEDITOR=nano\nXDG_SEAT=seat0\nPWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist\nLOGNAME=albert\nXDG_SESSION_TYPE=tty\nVSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess\nVSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447\n_=/usr/bin/env\nXAUTHORITY=/home/albert/.Xauthority\nDOTNET_MULTILEVEL_LOOKUP=0\nWINDOWPATH=1\nMOTD_SHOWN=pam\nHOME=/home/albert\nLC_PAPER=ru_RU.UTF-8\nLANG=ru_RU.UTF-8\nVSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert\nVSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock\nVSCODE_CLI=1\nCHROME_DESKTOP=code.desktop\nXDG_SESSION_CLASS=user\nTERM=linux\nLC_IDENTIFICATION=ru_RU.UTF-8\nUSER=albert\nDISPLAY=:0\nVSCODE_PID=46477\nSHLVL=4\nLC_TELEPHONE=ru_RU.UTF-8\nLC_MEASUREMENT=ru_RU.UTF-8\nVSCODE_CWD=/home/albert\nXDG_VTNR=1\nXDG_SESSION_ID=1\nVSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost\nXDG_RUNTIME_DIR=/run/user/1000\nLC_TIME=ru_RU.UTF-8\nELECTRON_NO_ATTACH_CONSOLE=1\nGDK_BACKEND=x11\nBROWSER=firefox\nPATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nORIGINAL_XDG_CURRENT_DESKTOP=undefined\nDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\nVSCODE_NLS_CONFIG={\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}\nMAIL=/var/spool/mail/albert\nVSCODE_HANDLES_UNCAUGHT_ERRORS=true\nLC_NUMERIC=ru_RU.UTF-8\n"}
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.594Z
+env bash{"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl.
+Executor Path: SHELL=/usr/bin/fish
+LC_ADDRESS=ru_RU.UTF-8
+LC_NAME=ru_RU.UTF-8
+ELECTRON_RUN_AS_NODE=1
+LC_MONETARY=ru_RU.UTF-8
+NO_AT_BRIDGE=1
+EDITOR=nano
+XDG_SEAT=seat0
+PWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist
+LOGNAME=albert
+XDG_SESSION_TYPE=tty
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447
+_=/usr/bin/env
+XAUTHORITY=/home/albert/.Xauthority
+DOTNET_MULTILEVEL_LOOKUP=0
+WINDOWPATH=1
+MOTD_SHOWN=pam
+HOME=/home/albert
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert
+VSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock
+VSCODE_CLI=1
+CHROME_DESKTOP=code.desktop
+XDG_SESSION_CLASS=user
+TERM=linux
+LC_IDENTIFICATION=ru_RU.UTF-8
+USER=albert
+DISPLAY=:0
+VSCODE_PID=46477
+SHLVL=4
+LC_TELEPHONE=ru_RU.UTF-8
+LC_MEASUREMENT=ru_RU.UTF-8
+VSCODE_CWD=/home/albert
+XDG_VTNR=1
+XDG_SESSION_ID=1
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+ELECTRON_NO_ATTACH_CONSOLE=1
+GDK_BACKEND=x11
+BROWSER=firefox
+PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+VSCODE_NLS_CONFIG={"userLocale":"ru","osLocale":"ru-ru","resolvedLanguage":"ru","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","languagePack":{"translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","messagesFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json","corruptMarkerFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"},"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"a504866c86de1dc4be750db93b16b843.ru","_languagePackSupport":true,"_translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","_cacheRoot":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru","_resolvedLanguagePackCoreLocation":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447","_corruptedFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"}
+MAIL=/var/spool/mail/albert
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+LC_NUMERIC=ru_RU.UTF-8
+
+
+Bin Bash Path: 
+
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.594Z
+which which{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":"/usr/bin/which\n"}
+
+14.02.2025, 23:07:33 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.595Z
+which dotnet{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"1","stderr":"which: no dotnet in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)\n","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+14.02.2025, 23:07:33 DotnetFindPathHostFxrResolutionLookup
+Looking up .NET without checking the PATH.
+
+14.02.2025, 23:07:33 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location_x64
+
+14.02.2025, 23:07:33 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location
+
+14.02.2025, 23:07:33 DotnetFindPathNoHostOnFileSystem
+The host could not be found in the file system.
+
+14.02.2025, 23:07:33 DotnetFindPathNoPathMetCondition
+Could not find a single host path that met the conditions.
+existingPath : undefined
+onPath : undefined
+onRealPath : undefined
+onRoot : undefined
+onHostfxrRecord : []
+
+Requirement:
+{"acquireContext":{"version":"8.0.10","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"greater_than_or_equal"}
+
+14.02.2025, 23:07:33 DotnetAcquisitionStatusRequested
+8.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+14.02.2025, 23:07:33 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+14.02.2025, 23:07:33 DotnetFindPathCommandInvoked
+The find path command was invoked.
+{"acquireContext":{"version":"8.0.10","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"greater_than_or_equal"}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupSetting
+Looking up vscode setting.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.607Z
+"" --list-runtimes{"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"127","stderr":"/bin/sh: строка 1: : команда не найдена\n","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathNoRuntimesOnHost
+The host:  does not contain a .NET runtime installation.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.607Z
+env {"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"0","stderr":"","stdout":"SHELL=/usr/bin/fish\nLC_ADDRESS=ru_RU.UTF-8\nLC_NAME=ru_RU.UTF-8\nELECTRON_RUN_AS_NODE=1\nLC_MONETARY=ru_RU.UTF-8\nNO_AT_BRIDGE=1\nEDITOR=nano\nXDG_SEAT=seat0\nPWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist\nLOGNAME=albert\nXDG_SESSION_TYPE=tty\nVSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess\nVSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447\n_=/usr/bin/env\nXAUTHORITY=/home/albert/.Xauthority\nDOTNET_MULTILEVEL_LOOKUP=0\nWINDOWPATH=1\nMOTD_SHOWN=pam\nHOME=/home/albert\nLC_PAPER=ru_RU.UTF-8\nLANG=ru_RU.UTF-8\nVSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert\nVSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock\nVSCODE_CLI=1\nCHROME_DESKTOP=code.desktop\nXDG_SESSION_CLASS=user\nTERM=linux\nLC_IDENTIFICATION=ru_RU.UTF-8\nUSER=albert\nDISPLAY=:0\nVSCODE_PID=46477\nSHLVL=4\nLC_TELEPHONE=ru_RU.UTF-8\nLC_MEASUREMENT=ru_RU.UTF-8\nVSCODE_CWD=/home/albert\nXDG_VTNR=1\nXDG_SESSION_ID=1\nVSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost\nXDG_RUNTIME_DIR=/run/user/1000\nLC_TIME=ru_RU.UTF-8\nELECTRON_NO_ATTACH_CONSOLE=1\nGDK_BACKEND=x11\nBROWSER=firefox\nPATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nORIGINAL_XDG_CURRENT_DESKTOP=undefined\nDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\nVSCODE_NLS_CONFIG={\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}\nMAIL=/var/spool/mail/albert\nVSCODE_HANDLES_UNCAUGHT_ERRORS=true\nLC_NUMERIC=ru_RU.UTF-8\n"}
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.607Z
+env bash{"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl.
+Executor Path: SHELL=/usr/bin/fish
+LC_ADDRESS=ru_RU.UTF-8
+LC_NAME=ru_RU.UTF-8
+ELECTRON_RUN_AS_NODE=1
+LC_MONETARY=ru_RU.UTF-8
+NO_AT_BRIDGE=1
+EDITOR=nano
+XDG_SEAT=seat0
+PWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist
+LOGNAME=albert
+XDG_SESSION_TYPE=tty
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447
+_=/usr/bin/env
+XAUTHORITY=/home/albert/.Xauthority
+DOTNET_MULTILEVEL_LOOKUP=0
+WINDOWPATH=1
+MOTD_SHOWN=pam
+HOME=/home/albert
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert
+VSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock
+VSCODE_CLI=1
+CHROME_DESKTOP=code.desktop
+XDG_SESSION_CLASS=user
+TERM=linux
+LC_IDENTIFICATION=ru_RU.UTF-8
+USER=albert
+DISPLAY=:0
+VSCODE_PID=46477
+SHLVL=4
+LC_TELEPHONE=ru_RU.UTF-8
+LC_MEASUREMENT=ru_RU.UTF-8
+VSCODE_CWD=/home/albert
+XDG_VTNR=1
+XDG_SESSION_ID=1
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+ELECTRON_NO_ATTACH_CONSOLE=1
+GDK_BACKEND=x11
+BROWSER=firefox
+PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+VSCODE_NLS_CONFIG={"userLocale":"ru","osLocale":"ru-ru","resolvedLanguage":"ru","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","languagePack":{"translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","messagesFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json","corruptMarkerFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"},"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"a504866c86de1dc4be750db93b16b843.ru","_languagePackSupport":true,"_translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","_cacheRoot":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru","_resolvedLanguagePackCoreLocation":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447","_corruptedFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"}
+MAIL=/var/spool/mail/albert
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+LC_NUMERIC=ru_RU.UTF-8
+
+
+Bin Bash Path: 
+
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.608Z
+which which{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":"/usr/bin/which\n"}
+
+14.02.2025, 23:07:33 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.608Z
+which dotnet{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"1","stderr":"which: no dotnet in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)\n","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupRealPATH
+Looking up .NET on the real path.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.608Z
+env {"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"0","stderr":"","stdout":"SHELL=/usr/bin/fish\nLC_ADDRESS=ru_RU.UTF-8\nLC_NAME=ru_RU.UTF-8\nELECTRON_RUN_AS_NODE=1\nLC_MONETARY=ru_RU.UTF-8\nNO_AT_BRIDGE=1\nEDITOR=nano\nXDG_SEAT=seat0\nPWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist\nLOGNAME=albert\nXDG_SESSION_TYPE=tty\nVSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess\nVSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447\n_=/usr/bin/env\nXAUTHORITY=/home/albert/.Xauthority\nDOTNET_MULTILEVEL_LOOKUP=0\nWINDOWPATH=1\nMOTD_SHOWN=pam\nHOME=/home/albert\nLC_PAPER=ru_RU.UTF-8\nLANG=ru_RU.UTF-8\nVSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert\nVSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock\nVSCODE_CLI=1\nCHROME_DESKTOP=code.desktop\nXDG_SESSION_CLASS=user\nTERM=linux\nLC_IDENTIFICATION=ru_RU.UTF-8\nUSER=albert\nDISPLAY=:0\nVSCODE_PID=46477\nSHLVL=4\nLC_TELEPHONE=ru_RU.UTF-8\nLC_MEASUREMENT=ru_RU.UTF-8\nVSCODE_CWD=/home/albert\nXDG_VTNR=1\nXDG_SESSION_ID=1\nVSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost\nXDG_RUNTIME_DIR=/run/user/1000\nLC_TIME=ru_RU.UTF-8\nELECTRON_NO_ATTACH_CONSOLE=1\nGDK_BACKEND=x11\nBROWSER=firefox\nPATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl\nORIGINAL_XDG_CURRENT_DESKTOP=undefined\nDBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus\nVSCODE_NLS_CONFIG={\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}\nMAIL=/var/spool/mail/albert\nVSCODE_HANDLES_UNCAUGHT_ERRORS=true\nLC_NUMERIC=ru_RU.UTF-8\n"}
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.610Z
+env bash{"shell":"/bin/bash","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupPATH
+Looking up .NET on the path. Process.env.path: /usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl.
+Executor Path: SHELL=/usr/bin/fish
+LC_ADDRESS=ru_RU.UTF-8
+LC_NAME=ru_RU.UTF-8
+ELECTRON_RUN_AS_NODE=1
+LC_MONETARY=ru_RU.UTF-8
+NO_AT_BRIDGE=1
+EDITOR=nano
+XDG_SEAT=seat0
+PWD=/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist
+LOGNAME=albert
+XDG_SESSION_TYPE=tty
+VSCODE_ESM_ENTRYPOINT=vs/workbench/api/node/extensionHostProcess
+VSCODE_CODE_CACHE_PATH=/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447
+_=/usr/bin/env
+XAUTHORITY=/home/albert/.Xauthority
+DOTNET_MULTILEVEL_LOOKUP=0
+WINDOWPATH=1
+MOTD_SHOWN=pam
+HOME=/home/albert
+LC_PAPER=ru_RU.UTF-8
+LANG=ru_RU.UTF-8
+VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME=/home/albert
+VSCODE_IPC_HOOK=/run/user/1000/vscode-6b21d731-1.97-main.sock
+VSCODE_CLI=1
+CHROME_DESKTOP=code.desktop
+XDG_SESSION_CLASS=user
+TERM=linux
+LC_IDENTIFICATION=ru_RU.UTF-8
+USER=albert
+DISPLAY=:0
+VSCODE_PID=46477
+SHLVL=4
+LC_TELEPHONE=ru_RU.UTF-8
+LC_MEASUREMENT=ru_RU.UTF-8
+VSCODE_CWD=/home/albert
+XDG_VTNR=1
+XDG_SESSION_ID=1
+VSCODE_CRASH_REPORTER_PROCESS_TYPE=extensionHost
+XDG_RUNTIME_DIR=/run/user/1000
+LC_TIME=ru_RU.UTF-8
+ELECTRON_NO_ATTACH_CONSOLE=1
+GDK_BACKEND=x11
+BROWSER=firefox
+PATH=/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+VSCODE_NLS_CONFIG={"userLocale":"ru","osLocale":"ru-ru","resolvedLanguage":"ru","defaultMessagesFile":"/opt/visual-studio-code/resources/app/out/nls.messages.json","languagePack":{"translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","messagesFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json","corruptMarkerFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"},"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"a504866c86de1dc4be750db93b16b843.ru","_languagePackSupport":true,"_translationsConfigFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json","_cacheRoot":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru","_resolvedLanguagePackCoreLocation":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447","_corruptedFile":"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info"}
+MAIL=/var/spool/mail/albert
+VSCODE_HANDLES_UNCAUGHT_ERRORS=true
+LC_NUMERIC=ru_RU.UTF-8
+
+
+Bin Bash Path: 
+
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.610Z
+which which{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"0","stderr":"","stdout":"/usr/bin/which\n"}
+
+14.02.2025, 23:07:33 DotnetAlternativeCommandFoundEvent
+The command which was found.
+
+14.02.2025, 23:07:33 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:33.611Z
+which dotnet{"env":{"BROWSER":"firefox","CHROME_DESKTOP":"code.desktop","DBUS_SESSION_BUS_ADDRESS":"unix:path=/run/user/1000/bus","DISPLAY":":0","EDITOR":"nano","ELECTRON_NO_ATTACH_CONSOLE":"1","GDK_BACKEND":"x11","HOME":"/home/albert","LANG":"ru_RU.UTF-8","LC_ADDRESS":"ru_RU.UTF-8","LC_IDENTIFICATION":"ru_RU.UTF-8","LC_MEASUREMENT":"ru_RU.UTF-8","LC_MONETARY":"ru_RU.UTF-8","LC_NAME":"ru_RU.UTF-8","LC_NUMERIC":"ru_RU.UTF-8","LC_PAPER":"ru_RU.UTF-8","LC_TELEPHONE":"ru_RU.UTF-8","LC_TIME":"ru_RU.UTF-8","LOGNAME":"albert","MAIL":"/var/spool/mail/albert","MOTD_SHOWN":"pam","NO_AT_BRIDGE":"1","ORIGINAL_XDG_CURRENT_DESKTOP":"undefined","PATH":"/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl","PWD":"/home/albert","SHELL":"/usr/bin/fish","SHLVL":"4","TERM":"linux","USER":"albert","VSCODE_CLI":"1","VSCODE_CODE_CACHE_PATH":"/home/albert/.config/Code/CachedData/e54c774e0add60467559eb0d1e229c6452cf8447","VSCODE_CRASH_REPORTER_PROCESS_TYPE":"extensionHost","VSCODE_CWD":"/home/albert","VSCODE_ESM_ENTRYPOINT":"vs/workbench/api/node/extensionHostProcess","VSCODE_HANDLES_UNCAUGHT_ERRORS":"true","VSCODE_IPC_HOOK":"/run/user/1000/vscode-6b21d731-1.97-main.sock","VSCODE_NLS_CONFIG":"{\"userLocale\":\"ru\",\"osLocale\":\"ru-ru\",\"resolvedLanguage\":\"ru\",\"defaultMessagesFile\":\"/opt/visual-studio-code/resources/app/out/nls.messages.json\",\"languagePack\":{\"translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"messagesFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447/nls.messages.json\",\"corruptMarkerFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"},\"locale\":\"ru\",\"availableLanguages\":{\"*\":\"ru\"},\"_languagePackId\":\"a504866c86de1dc4be750db93b16b843.ru\",\"_languagePackSupport\":true,\"_translationsConfigFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/tcf.json\",\"_cacheRoot\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru\",\"_resolvedLanguagePackCoreLocation\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/e54c774e0add60467559eb0d1e229c6452cf8447\",\"_corruptedFile\":\"/home/albert/.config/Code/clp/a504866c86de1dc4be750db93b16b843.ru/corrupted.info\"}","VSCODE_PID":"46477","WINDOWPATH":"1","XAUTHORITY":"/home/albert/.Xauthority","XDG_RUNTIME_DIR":"/run/user/1000","XDG_SEAT":"seat0","XDG_SESSION_CLASS":"user","XDG_SESSION_ID":"1","XDG_SESSION_TYPE":"tty","XDG_VTNR":"1","_":"/opt/visual-studio-code/bin/../code","ELECTRON_RUN_AS_NODE":"1","VSCODE_DOTNET_INSTALL_TOOL_ORIGINAL_HOME":"/home/albert","DOTNET_MULTILEVEL_LOOKUP":"0"},"shell":"/bin/sh","cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist"}
+{"status":"1","stderr":"which: no dotnet in (/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl)\n","stdout":""}
+
+14.02.2025, 23:07:33 DotnetFindPathLookupRealPATH
+Looking up .NET on the root.
+
+14.02.2025, 23:07:33 DotnetFindPathHostFxrResolutionLookup
+Looking up .NET without checking the PATH.
+
+14.02.2025, 23:07:33 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location_x64
+
+14.02.2025, 23:07:33 FileDoesNotExist
+The host save location never existed at /etc/dotnet/install_location
+
+14.02.2025, 23:07:33 DotnetFindPathNoHostOnFileSystem
+The host could not be found in the file system.
+
+14.02.2025, 23:07:33 DotnetFindPathNoPathMetCondition
+Could not find a single host path that met the conditions.
+existingPath : undefined
+onPath : undefined
+onRealPath : undefined
+onRoot : undefined
+onHostfxrRecord : []
+
+Requirement:
+{"acquireContext":{"version":"8.0.10","requestingExtensionId":"ms-dotnettools.csharp","architecture":"x64","mode":"runtime"},"versionSpecRequirement":"greater_than_or_equal"}
+
+14.02.2025, 23:07:33 DotnetAcquisitionStatusRequested
+8.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+14.02.2025, 23:07:33 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+14.02.2025, 23:07:35 WebRequestTime
+Timer for request:
+2144.75
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+14.02.2025, 23:07:35 DotnetVersionResolutionCompleted
+8.0
+8.0.13
+
+14.02.2025, 23:07:35 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2025-02-14T15:07:35.760Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+
+14.02.2025, 23:07:35 FoundTrackingVersions
+true
+installed :
+
+
+14.02.2025, 23:07:35 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2025-02-14T15:07:35.762Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+
+14.02.2025, 23:07:35 DotnetAcquisitionStatusUndefined
+8.0.13~x64
+8.0.13~x64
+8.0.13
+x64
+false
+runtime
+
+14.02.2025, 23:07:35 DotnetCommandSucceeded
+acquireStatus
+
+14.02.2025, 23:07:35 DotnetAcquisitionRequested
+8.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+14.02.2025, 23:07:35 DotnetRuntimeAcquisitionRequested
+8.0
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+runtime
+
+14.02.2025, 23:07:35 CacheGetEvent
+Checking the cache at 2025-02-14T15:07:35.764Z
+"" --list-runtimes{"cwd":"/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist","shell":true}
+{"status":"127","stderr":"/bin/sh: строка 1: : команда не найдена\n","stdout":""}
+
+14.02.2025, 23:07:35 DotnetFindPathNoRuntimesOnHost
+The host:  does not contain a .NET runtime installation.
+
+14.02.2025, 23:07:35 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/release-metadata/releases-index.json
+
+14.02.2025, 23:07:35 WebRequestTime
+Timer for request:
+98.14
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+14.02.2025, 23:07:35 DotnetVersionResolutionCompleted
+8.0
+8.0.13
+
+14.02.2025, 23:07:35 DotnetInstallIdCreatedEvent
+true
+The requested version 8.0.13 is now marked under the install: {"installId":"8.0.13~x64","version":"8.0.13","architecture":"x64","isGlobal":false,"installMode":"runtime"}.
+
+14.02.2025, 23:07:35 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2025-02-14T15:07:35.869Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+
+14.02.2025, 23:07:35 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2025-02-14T15:07:35.870Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+
+14.02.2025, 23:07:35 FoundTrackingVersions
+true
+installing :
+
+
+14.02.2025, 23:07:35 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2025-02-14T15:07:35.874Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+
+14.02.2025, 23:07:35 FoundTrackingVersions
+true
+installed :
+
+
+14.02.2025, 23:07:35 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2025-02-14T15:07:35.874Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installed.lock
+
+14.02.2025, 23:07:35 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2025-02-14T15:07:35.875Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+
+14.02.2025, 23:07:35 RemovingVersionFromExtensionState
+true
+Adding {"installId":"8.0.13~x64","version":"8.0.13","architecture":"x64","isGlobal":false,"installMode":"runtime"} with id installing from the state.
+
+14.02.2025, 23:07:35 FoundTrackingVersions
+true
+installing :
+
+
+14.02.2025, 23:07:35 AddTrackingVersions
+true
+Updated installing :
+{"installId":"8.0.13~x64","version":"8.0.13","architecture":"x64","isGlobal":false,"installMode":"runtime"} owned by ms-dotnettools.csharp
+
+
+14.02.2025, 23:07:35 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2025-02-14T15:07:35.894Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/installing.lock
+
+14.02.2025, 23:07:35 DotnetAcquisitionStarted
+8.0.13~x64
+8.0.13
+x64
+false
+runtime
+8.0.13
+8.0.13~x64
+ms-dotnettools.csharp
+
+14.02.2025, 23:07:35 DotnetRuntimeAcquisitionStarted
+3445ca21a214ca714b56fae55cefb76f78d2a37fa091e8e537a2e0ecca3f3e12
+
+14.02.2025, 23:07:35 WebRequestSent
+https://builds.dotnet.microsoft.com/dotnet/scripts/v1/dotnet-install.sh
+
+14.02.2025, 23:07:36 WebRequestTime
+Timer for request:
+2567.32
+true
+https:..builds.dotnet.microsoft.com.dotnet.release-metadata.releases-index.json
+200
+
+14.02.2025, 23:07:36 DotnetVersionResolutionCompleted
+8.0
+8.0.13
+
+14.02.2025, 23:07:36 DotnetAcquisitionStatusResolved
+8.0.13~x64
+8.0.13~x64
+8.0.13
+x64
+false
+runtime
+8.0.13
+
+14.02.2025, 23:07:37 WebRequestTime
+Timer for request:
+1205.46
+true
+https:..builds.dotnet.microsoft.com.dotnet.scripts.v1.dotnet-install.sh
+200
+
+14.02.2025, 23:07:37 DotnetFileWriteRequestEvent
+true
+Request to write
+2025-02-14T15:07:37.104Z
+77424c64097bbf9336f6d1b9b94d2adfde3e6b9ea6b94145a6a3e243e110eaa0
+
+14.02.2025, 23:07:37 DotnetFileWriteRequestEvent
+true
+File did not exist upon write request.
+2025-02-14T15:07:37.104Z
+77424c64097bbf9336f6d1b9b94d2adfde3e6b9ea6b94145a6a3e243e110eaa0
+
+14.02.2025, 23:07:37 DotnetLockAttemptingAcquireEvent
+true
+Lock Acquisition request to begin.
+2025-02-14T15:07:37.104Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dir.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dotnet-install.sh
+
+14.02.2025, 23:07:37 DotnetLockAcquiredEvent
+true
+Lock Acquired.
+2025-02-14T15:07:37.107Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dir.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dotnet-install.sh
+
+14.02.2025, 23:07:37 DotnetFileWriteRequestEvent
+true
+File content needed to be updated.
+2025-02-14T15:07:37.108Z
+77424c64097bbf9336f6d1b9b94d2adfde3e6b9ea6b94145a6a3e243e110eaa0
+
+14.02.2025, 23:07:37 DotnetLockReleasedEvent
+true
+Lock about to be released.
+2025-02-14T15:07:37.108Z
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dir.lock
+/home/albert/.vscode/extensions/ms-dotnettools.vscode-dotnet-runtime-2.2.8/dist/install scripts/dotnet-install.sh
+
+14.02.2025, 23:07:37 DotnetInstallScriptAcquisitionCompleted

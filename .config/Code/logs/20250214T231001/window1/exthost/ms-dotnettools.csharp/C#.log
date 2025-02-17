@@ -1,0 +1,583 @@
+2025-02-14 23:10:03.008 [debug] Extension vscode.bat does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.clojure does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.coffeescript does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.configuration-editing does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.cpp does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.csharp does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.css does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.css-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.dart does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.debug-auto-launch does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.debug-server-ready does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.diff does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.docker does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.emmet does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.extension-editing does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.fsharp does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.git does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.git-base does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.github does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.github-authentication does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.go does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.groovy does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.grunt does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.gulp does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.handlebars does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.hlsl does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.html does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.html-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.ini does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.ipynb does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.jake does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.java does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.javascript does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.json does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.json-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.julia does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.latex does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.less does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.log does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.lua does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.make does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.markdown does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.markdown-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.markdown-math does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.media-preview does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.merge-conflict does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.microsoft-authentication does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-vscode.js-debug does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-vscode.js-debug-companion does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-vscode.vscode-js-profile-table does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.builtin-notebook-renderers does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.npm does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.objective-c does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.perl does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.php does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.php-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.powershell does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.pug does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.python does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.r does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.razor does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.references-view does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.restructuredtext does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.ruby does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.rust does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.scss does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.search-result does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.shaderlab does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.shellscript does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.simple-browser does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.sql does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.swift does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.terminal-suggest does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-abyss does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-defaults does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-kimbie-dark does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-monokai does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-monokai-dimmed does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-quietlight does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-red does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.vscode-theme-seti does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-solarized-dark does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-solarized-light does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.theme-tomorrow-night-blue does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.tunnel-forwarding does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.typescript does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.typescript-language-features does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.vb does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.xml does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension vscode.yaml does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension MS-CEINTL.vscode-language-pack-ru does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-dotnettools.csdevkit does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-dotnettools.csharp does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [debug] Extension ms-dotnettools.vscode-dotnet-runtime does not contribute csharpExtensionLoadPaths
+2025-02-14 23:10:03.008 [info] Locating .NET runtime version 8.0.10
+2025-02-14 23:10:03.008 [info] Dotnet path: /usr/share/dotnet/dotnet
+2025-02-14 23:10:03.008 [info] Activating C# + C# Dev Kit...
+2025-02-14 23:10:03.504 [debug] Starting server at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.LanguageServer
+2025-02-14 23:10:03.504 [debug] Server arguments --logLevel Trace --razorSourceGenerator /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.razor/Microsoft.CodeAnalysis.Razor.Compiler.dll --razorDesignTimePath /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.razor/Targets/Microsoft.NET.Sdk.Razor.DesignTime.targets --devKitDependencyPath /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslynDevKit/Microsoft.VisualStudio.LanguageServices.DevKit.dll --sessionId 8871d2bc-1dbc-415a-9a15-6727f17a0e531739545801449 --extension /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.dll --extension /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.Diagnostics.dll --telemetryLevel all --extensionLogDirectory /home/albert/.config/Code/logs/20250214T231001/window1/exthost/ms-dotnettools.csharp
+2025-02-14 23:10:03.504 [debug] waiting for named pipe information from server...
+2025-02-14 23:10:03.613 [info] [stdout] trce: Program[0]
+      Server started with process ID 48161
+trce: Program[0]
+      .NET Runtime Version: .NET 9.0.1
+
+2025-02-14 23:10:03.625 [info] [stdout] trce: Microsoft.CodeAnalysis.LanguageServer.ExportProviderBuilder[0]
+      Creating /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools load context for /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.dll
+
+2025-02-14 23:10:03.641 [info] [stdout] trce: Microsoft.CodeAnalysis.LanguageServer.ExportProviderBuilder[0]
+      Loading cached MEF catalog: /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/cache/.NET 9/c#-languageserver.KLPe4M7M0sdNX59wHUt45A.mef-composition
+
+2025-02-14 23:10:03.691 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.699 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.ServiceHub.Framework, Version=4.7.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+2025-02-14 23:10:03.747 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.VisualStudio.Composition, Version=17.12.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+2025-02-14 23:10:03.754 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.755 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.757 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.757 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.758 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.758 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.758 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.777 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.779 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.Extensions.Logging.Abstractions, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.VisualStudio.LanguageServices.DevKit, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: DevKitAssemblyResolver[0]
+      Loading Microsoft.VisualStudio.LanguageServices.DevKit from DevKit directory
+
+2025-02-14 23:10:03.928 [info] [stdout] trce: Microsoft.CodeAnalysis.LanguageServer.Logging.VSCodeTelemetryLogger[0]
+      Telemetry session started with sessionID: 8871d2bc-1dbc-415a-9a15-6727f17a0e531739545801449
+
+2025-02-14 23:10:03.932 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.VisualStudio.Composition, Version=17.12.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.933 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.933 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.933 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.934 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.934 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.VisualStudio.Composition, Version=17.12.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+
+2025-02-14 23:10:03.937 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.937 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.951 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.954 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.962 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.964 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.964 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.965 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.991 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.991 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.991 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.995 [info] [stdout] dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Elfie.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll added to workspace.
+
+2025-02-14 23:10:03.995 [info] [stdout] dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.ExternalAccess.Xaml.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.CSharp.Workspaces.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Scripting.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Razor.Compiler.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Workspaces.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.CSharp.Features.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.CSharp.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.AnalyzerUtilities.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Remote.Workspaces.dll added to workspace.
+
+2025-02-14 23:10:03.995 [info] [stdout] dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.ExternalAccess.AspNetCore.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.Features.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.roslyn/Microsoft.CodeAnalysis.ExternalAccess.CompilerDeveloperSDK.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.dll added to workspace.
+dbug: LanguageServerWorkspaceFactory[0]
+      Solution-level analyzer at /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.Diagnostics.dll added to workspace.
+
+2025-02-14 23:10:03.999 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:03.999 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:03.999 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.000 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.000 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.001 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.026 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Remote.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Remote.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.026 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.027 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.043 [info] [stdout] {"pipeName":"/tmp/d0380e9c.sock"}
+
+2025-02-14 23:10:04.043 [info] received named pipe information from server
+2025-02-14 23:10:04.044 [debug] attempting to connect client to server...
+2025-02-14 23:10:04.044 [info] client has connected to server
+2025-02-14 23:10:04.066 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.067 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.082 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:04.083 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.084 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.084 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.084 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.084 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+trce: MEF Assembly Loader[0]
+      Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+
+2025-02-14 23:10:04.084 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.086 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.108 [info] [stdout] trce: MEF Assembly Loader[0]
+      Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+
+2025-02-14 23:10:04.147 [info] [Info  - 23:10:04] [Program] Language server initialized
+2025-02-14 23:10:04.152 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.155 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.InitializeParams
+2025-02-14 23:10:04.156 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.156 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.InitializeResult
+2025-02-14 23:10:04.156 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.290 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.290 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.291 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.299 [info] [LanguageServerHost] [03:10:04.298][Start]initialize
+2025-02-14 23:10:04.305 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.308 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.309 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.310 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.310 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.319 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.320 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.321 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.324 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.325 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.325 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.326 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.327 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.331 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.331 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.331 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.331 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.332 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.336 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.336 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.336 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.336 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.336 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.337 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.337 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.337 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.337 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.337 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.339 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.339 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.CSharp.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.342 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.436 [debug] GitHub Copilot extension not installed. Skip registeration of C# related files provider.
+2025-02-14 23:10:04.446 [info] [LanguageServerHost] [03:10:04.445][End]initialize
+2025-02-14 23:10:04.447 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.InitializedParams
+2025-02-14 23:10:04.447 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.447 [info] [LanguageServerHost] [03:10:04.447][Start]initialized
+2025-02-14 23:10:04.450 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.452 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.453 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.453 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.464 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.464 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.464 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.465 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.541 [info] [MEF Assembly Loader] Loading assembly Microsoft.VisualStudio.DesignTools.CodeAnalysis, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2025-02-14 23:10:04.542 [info] [MEF Assembly Loader] Microsoft.VisualStudio.DesignTools.CodeAnalysis, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a with code base /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.dll found in extension context.
+2025-02-14 23:10:04.542 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] netstandard not found in this load context
+2025-02-14 23:10:04.542 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] Microsoft.CodeAnalysis.ExternalAccess.Xaml not found in this load context
+2025-02-14 23:10:04.543 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] Microsoft.CodeAnalysis.LanguageServer.Protocol not found in this load context
+2025-02-14 23:10:04.544 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.Xaml, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.544 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.Xaml, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.545 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] System.Threading.Tasks.Extensions not found in this load context
+2025-02-14 23:10:04.555 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.555 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.555 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.555 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.VisualStudio.DesignTools.CodeAnalysis, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Microsoft.VisualStudio.DesignTools.CodeAnalysis, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a with code base /home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools/Microsoft.VisualStudio.DesignTools.CodeAnalysis.dll found in extension context.
+2025-02-14 23:10:04.556 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] System.Collections.Immutable not found in this load context
+2025-02-14 23:10:04.556 [info] [ALC-/home/albert/.vscode/extensions/ms-dotnettools.csharp-2.63.32-linux-x64/.xamlTools] Microsoft.CodeAnalysis not found in this load context
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.Xaml, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.Xaml, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.556 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.ExternalAccess.VisualDiagnostics, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.557 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.558 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.558 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.559 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.559 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.566 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.570 [info] [LanguageServerHost] [03:10:04.570][End]initialized
+2025-02-14 23:10:04.571 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:04.571 [info] [ExtensionTypeRefResolver] Resolving type, Microsoft.CodeAnalysis.LanguageServer.LanguageServer.Handler.Logging.UpdateLogLevelParams
+2025-02-14 23:10:04.571 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.571 [info] [ExtensionTypeRefResolver] Resolving type, Microsoft.CodeAnalysis.LanguageServer.LanguageServer.Handler.Logging.UpdateLogLevelHandler
+2025-02-14 23:10:04.571 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.571 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.571 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.571 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.572 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:04.572 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.WorkspaceDiagnosticParams
+2025-02-14 23:10:04.572 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.572 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.WorkspaceDiagnosticReport
+2025-02-14 23:10:04.572 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.572 [info] [ExtensionTypeRefResolver] Resolving type, Microsoft.CodeAnalysis.LanguageServer.Handler.Diagnostics.Public.PublicWorkspacePullDiagnosticsHandler
+2025-02-14 23:10:04.572 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.573 [info] [LanguageServerHost] [03:10:04.572][Start]roslyn/updateLogLevel
+2025-02-14 23:10:04.574 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.574 [info] [LanguageServerHost] [03:10:04.574][End]roslyn/updateLogLevel
+2025-02-14 23:10:04.592 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:04.592 [info] [LanguageServerHost] [03:10:04.592][Start]workspace/diagnostic
+2025-02-14 23:10:04.593 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:04.593 [info] [LanguageServerHost] [03:10:04.592][Start]workspace/diagnostic
+2025-02-14 23:10:04.593 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:04.593 [info] [LanguageServerHost] [03:10:04.592][Start]workspace/diagnostic
+2025-02-14 23:10:04.593 [info] [LanguageServerHost] [03:10:04.593][Start]workspace/diagnostic
+2025-02-14 23:10:04.596 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: WorkspaceDocumentsAndProject) started getting diagnostics
+2025-02-14 23:10:04.596 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: HotReloadDiagnostics) started getting diagnostics
+2025-02-14 23:10:04.596 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: HotReloadDiagnostics) started getting diagnostics
+2025-02-14 23:10:04.597 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: enc) started getting diagnostics
+2025-02-14 23:10:04.599 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:04.599 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:04.599 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:04.599 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:04.603 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.603 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:04.603 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:04.604 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.604 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.605 [info] [LanguageServerHost] Closing workspace/diagnostics request for HotReloadDiagnostics
+2025-02-14 23:10:04.605 [info] [LanguageServerHost] Microsoft.CodeAnalysis.LanguageServer.Handler.Diagnostics.Public.PublicWorkspacePullDiagnosticsHandler finished getting diagnostics
+2025-02-14 23:10:04.606 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.606 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.606 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.606 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Features, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.607 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:04.607 [info] [LanguageServerHost] Closing workspace/diagnostics request for enc
+2025-02-14 23:10:04.607 [info] [LanguageServerHost] Microsoft.CodeAnalysis.LanguageServer.Handler.Diagnostics.Public.PublicWorkspacePullDiagnosticsHandler finished getting diagnostics
+2025-02-14 23:10:04.608 [info] [LanguageServerHost] [03:10:04.607][End]workspace/diagnostic
+2025-02-14 23:10:04.608 [info] [LanguageServerHost] [03:10:04.607][End]workspace/diagnostic
+2025-02-14 23:10:04.612 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.Workspaces, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:04.613 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:04.613 [info] [LanguageServerHost] Closing workspace/diagnostics request for WorkspaceDocumentsAndProject
+2025-02-14 23:10:04.613 [info] [LanguageServerHost] Microsoft.CodeAnalysis.LanguageServer.Handler.Diagnostics.Public.PublicWorkspacePullDiagnosticsHandler finished getting diagnostics
+2025-02-14 23:10:04.613 [info] [LanguageServerHost] [03:10:04.613][End]workspace/diagnostic
+2025-02-14 23:10:05.195 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:05.195 [info] [ExtensionTypeRefResolver] Resolving type, Roslyn.LanguageServer.Protocol.DidChangeConfigurationParams
+2025-02-14 23:10:05.195 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:05.195 [info] [ExtensionTypeRefResolver] Resolving type, Microsoft.CodeAnalysis.LanguageServer.Handler.Configuration.DidChangeConfigurationNotificationHandler
+2025-02-14 23:10:05.195 [info] [MEF Assembly Loader] Loading assembly Microsoft.CodeAnalysis.LanguageServer.Protocol, Version=4.14.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35
+2025-02-14 23:10:05.197 [info] [LanguageServerHost] [03:10:05.197][Start]workspace/didChangeConfiguration
+2025-02-14 23:10:05.199 [info] [LanguageServerHost] [03:10:05.199][End]workspace/didChangeConfiguration
+2025-02-14 23:10:06.610 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:06.611 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:06.612 [info] [LanguageServerHost] [03:10:06.610][Start]workspace/diagnostic
+2025-02-14 23:10:06.612 [info] [LanguageServerHost] [03:10:06.610][Start]workspace/diagnostic
+2025-02-14 23:10:06.612 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: HotReloadDiagnostics) started getting diagnostics
+2025-02-14 23:10:06.613 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: enc) started getting diagnostics
+2025-02-14 23:10:06.613 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:06.613 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:06.614 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:06.614 [info] [LanguageServerHost] Processing 0 documents
+2025-02-14 23:10:06.615 [info] [LanguageServerHost] Request did not contain a textDocument, using default language handler
+2025-02-14 23:10:06.615 [info] [LanguageServerHost] [03:10:06.613][Start]workspace/diagnostic
+2025-02-14 23:10:06.615 [info] [LanguageServerHost] PublicWorkspacePullDiagnosticsHandler(category: WorkspaceDocumentsAndProject) started getting diagnostics
+2025-02-14 23:10:06.615 [info] [LanguageServerHost] previousResults.Length=0
+2025-02-14 23:10:06.615 [info] [LanguageServerHost] Processing 0 documents

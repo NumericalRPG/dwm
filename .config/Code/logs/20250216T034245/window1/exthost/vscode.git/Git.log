@@ -1,0 +1,15 @@
+2025-02-16 03:42:49.442 [info] [основное] Уровень ведения журнала: Info
+2025-02-16 03:42:49.442 [info] [основное] Проверка найденного Git в: "git"
+2025-02-16 03:42:49.442 [info] [основное] Используется Git "2.48.1" из "git"
+2025-02-16 03:42:49.442 [info] [Model][doInitialScan] Initial repository scan started
+2025-02-16 03:42:49.442 [info] > git rev-parse --show-toplevel [3ms]
+2025-02-16 03:42:49.442 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-02-16 03:42:49.442 [info] > git rev-parse --show-toplevel [3ms]
+2025-02-16 03:42:49.442 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-02-16 03:42:49.449 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-16 03:42:49.449 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-02-16 03:42:49.451 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-02-16 03:42:50.029 [info] > git rev-parse --show-toplevel [16ms]
+2025-02-16 03:42:50.029 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-02-16 03:42:50.463 [info] > git rev-parse --show-toplevel [2ms]
+2025-02-16 03:42:50.463 [info] fatal: not a git repository (or any of the parent directories): .git

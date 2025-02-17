@@ -1,0 +1,87 @@
+﻿02/14/2025 23:12:31 Иркутск, стандартное время : Information : Local timezone is (UTC+08:00) Иркутск, стандартное время
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "getPipe" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetPipeAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "getProxy" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.GetProxyAsync(ServiceRpcDescriptor, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "handshake" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "requestServiceChannel" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время : Information : Added local RPC method "cancelServiceRequest" -> Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.CancelServiceRequestAsync(Guid) (Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View)
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 2 :Listening for events from Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.AvailabilityChanged to raise notification.
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 3 :Listening started.
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":2,"method":"handshake"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "2" for method "handshake".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.HandshakeAsync(ServiceBrokerClientMetadata, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : handshake
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : handshake
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":2}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":3,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "3" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":3}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":4,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "4" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":5,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "5" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":4}
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":5}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":6,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "6" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":6}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":7,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "7" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":7}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 7 :{"id":8,"method":"requestServiceChannel"}
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 6 :Received request "8" for method "requestServiceChannel".
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:31 Иркутск, стандартное время : Transfer : Transfer, relatedActivityId=9c40cc39-3b5e-41ea-8f30-4c39f060c79c
+02/14/2025 23:12:31 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:31 Иркутск, стандартное время : Transfer : Transfer, relatedActivityId=2b1b6bf8-9341-4509-a0b1-692a0001ec6d
+02/14/2025 23:12:31 Иркутск, стандартное время: Information : 8 :{"id":8}
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 7 :{"id":9,"method":"requestServiceChannel"}
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 6 :Received request "9" for method "requestServiceChannel".
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:32 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 8 :{"id":9}
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 7 :{"id":10,"method":"requestServiceChannel"}
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 6 :Received request "10" for method "requestServiceChannel".
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:32 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 7 :{"id":11,"method":"requestServiceChannel"}
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 6 :Received request "11" for method "requestServiceChannel".
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:32 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 8 :{"id":11}
+02/14/2025 23:12:32 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:32 Иркутск, стандартное время: Information : 8 :{"id":10}
+02/14/2025 23:12:33 Иркутск, стандартное время: Information : 7 :{"id":12,"method":"requestServiceChannel"}
+02/14/2025 23:12:33 Иркутск, стандартное время: Information : 6 :Received request "12" for method "requestServiceChannel".
+02/14/2025 23:12:33 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:33 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:33 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:33 Иркутск, стандартное время: Information : 8 :{"id":12}
+02/14/2025 23:12:36 Иркутск, стандартное время: Information : 7 :{"id":13,"method":"requestServiceChannel"}
+02/14/2025 23:12:36 Иркутск, стандартное время: Information : 6 :Received request "13" for method "requestServiceChannel".
+02/14/2025 23:12:36 Иркутск, стандартное время: Information : 9 :Invoking Microsoft.VisualStudio.Utilities.ServiceBroker.GlobalBrokeredServiceContainer+View.RequestServiceChannelAsync(ServiceMoniker, ServiceActivationOptions, CancellationToken)
+02/14/2025 23:12:36 Иркутск, стандартное время : Start : requestServiceChannel
+02/14/2025 23:12:36 Иркутск, стандартное время : Stop : requestServiceChannel
+02/14/2025 23:12:36 Иркутск, стандартное время: Information : 8 :{"id":13}

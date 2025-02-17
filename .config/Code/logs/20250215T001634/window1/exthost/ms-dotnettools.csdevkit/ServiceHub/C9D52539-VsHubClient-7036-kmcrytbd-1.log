@@ -1,0 +1,255 @@
+﻿02/15/2025 00:16:41 Иркутск, стандартное время : Information : Local timezone is (UTC+08:00) Иркутск, стандартное время
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":7036}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 432
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://7069EE38CF","ControllerConfig":{"Executable":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/servicehub-controller-net60.linux-x64/Microsoft.ServiceHub.Controller","Args":["e414b9b349"],"PipeName":"e414b9b349"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : Connected to Hub Controller's client watch 'net.pipe://7069EE38CF
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":7036}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 432
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://7069EE38CF","ControllerConfig":{"Executable":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/servicehub-controller-net60.linux-x64/Microsoft.ServiceHub.Controller","Args":["e414b9b349"],"PipeName":"e414b9b349"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 15948
+
+
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: {"jsonrpc":"2.0","id":3,"method":"RegisterServicesAsync","params":[{"Microsoft.VisualStudio.CpsProjectIconSourceService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory"}},"Microsoft.VisualStudio.LaunchConfigurationService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.CompositionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}},"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory"}},"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/CPS/platforms/linux-x64/node_modules/@microsoft/visualstudio-projectsystem-server.linux-x64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService+Factory"}},"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService+Factory"}},"Microsoft.VisualStudio.Debugger.HotReloadClientService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadClientService+Factory"}},"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService2":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService2":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService+Factory"}},"Microsoft.VisualStudio.Debugger.ManagedHotReloadService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadService+Factory"}},"Microsoft.VisualStudio.Debugger.SourceLinkService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.SourceLinkService+Factory"}},"Microsoft.VisualStudio.Debugger.SymbolLocatorService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSDebugCore/platforms/linux-x64/node_modules/@microsoft/visualstudio-debugger-devkit.linux-x64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.BrokeredServices.SymbolLocator.SymbolLocatorService+Factory"}},"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}},"Microsoft.VisualStudio.TestWindow.VSCode.Service":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/VSUnitTesting/platforms/linux-x64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.linux-x64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},"Microsoft.VisualStudio.AspireServer":{"host":"dotnet.aspireServer","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.AspireServer.dll","fullClassName":"Microsoft.WebTools.AspireServer.ServiceFactory"}},"Microsoft.VisualStudio.Debugger.AspireService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.ServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService":{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services/Microsoft.ProjectSystem.Managed.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]},"Microsoft.VisualStudio.ProjectQueryTestService":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.ProjectQueryTestServiceFactory"}},"helloServiceHubDotNetHost":{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64","entryPoint":{"assemblyPath":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/visualstudio-server-samples-sayhello.linux-x64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.HelloWorldFactory"}}}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 340
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/29073ef19e"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 348
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/a0a8e3e7fa"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 325
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/167ad64ed3"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:42 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 363
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/ed284ad2e5"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 365
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/368d05e06e"},"ClientCredentials":{},"ClientCulture":"ru-RU","ClientUICulture":"ru-RU"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":5,"result":{"RequestId":"c2af2632-9b0c-4502-80bb-ed2593dda614","PipeName":"/home/albert/.ServiceHub/e414b9b349/33e3bfd6cd","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":7,"result":{"RequestId":"df3e7a0a-a482-41bd-b984-638149e499b0","PipeName":"/home/albert/.ServiceHub/e414b9b349/64fc77eae9","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/368d05e06e'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/29073ef19e'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.13"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.13"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru-RU","clientUICulture":"ru-RU"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"4a810b33-9a83-4e45-bdf3-d0d0936a4491","pipeName":"/tmp/936f24c52ae74691a0014e4d1e867d0d"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"65b4bff4-53a5-4211-91a6-f85ddc130a9d","pipeName":"/tmp/18ce0f9c6bdc41f29b1def13ce3bc533"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":6,"result":{"RequestId":"117781dc-609f-47c6-ab5c-4f8992cfa4b0","PipeName":"/home/albert/.ServiceHub/e414b9b349/6d9885f1cf","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":3,"result":{"RequestId":"3da2715c-41ad-42ff-a8c4-94331a5722dc","PipeName":"/home/albert/.ServiceHub/e414b9b349/ca51faaefe","IsEmpty":false}}Content-Length: 162
+
+{"jsonrpc":"2.0","id":4,"result":{"RequestId":"5483e11b-90ae-4b11-8505-623a319ba7ed","PipeName":"/home/albert/.ServiceHub/e414b9b349/58d95909de","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/a0a8e3e7fa'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/ed284ad2e5'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/167ad64ed3'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 362
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/fedf3ed9c1"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":8,"result":{"RequestId":"8355f005-1ae6-4955-8796-dd975f61ecab","PipeName":"/home/albert/.ServiceHub/e414b9b349/2005dd8e53","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/fedf3ed9c1'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"8.0.13"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"224f8c66-6a12-44e3-9b39-0c7044b74ae0","pipeName":"/tmp/42d8ba2016694b238a2b87ab4ab25a69"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer read: Content-Length: 287
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","version":"0.3"},{"clientCulture":"ru","clientUICulture":"ru"}],"traceparent":"00-b2d3e9b8acb74d46af68f20cae7524a9-8b33bd935ca6e04c-00"}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 365
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/24d531a872"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 162
+
+{"jsonrpc":"2.0","id":9,"result":{"RequestId":"6fcadb0d-7020-4ead-bc08-898d3e9727a5","PipeName":"/home/albert/.ServiceHub/e414b9b349/567ab08fcf","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"6fcadb0d-7020-4ead-bc08-898d3e9727a5","pipeName":"/home/albert/.ServiceHub/e414b9b349/567ab08fcf"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/24d531a872'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"31852526-cb88-46e5-9da2-c8b1107591a5","pipeName":"/tmp/2beb640740894a6cb9ebcbed08aa04fb"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"44016c2b-343e-473f-806d-e17c689f84d0","pipeName":"/tmp/09cc47d5a8a44ed2a0be3ee9e53e2660"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"cd583bb6-b911-4a0c-adbb-56a8695af883","pipeName":"/tmp/d4e8edebaa314a61abfcb2c0efa9015b"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"74888a1b-fa1b-4c0d-97c6-a2e75ceeb371","pipeName":"/tmp/ca7707972f144505baae151e298cc2fc"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","version":"0.1"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 348
+
+{"jsonrpc":"2.0","id":10,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/5b4aad1e7b"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":10,"result":{"RequestId":"24fe8924-c7f5-4f4f-87a1-482713f8f5ac","PipeName":"/home/albert/.ServiceHub/e414b9b349/7329458839","IsEmpty":false}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"24fe8924-c7f5-4f4f-87a1-482713f8f5ac","pipeName":"/home/albert/.ServiceHub/e414b9b349/7329458839"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/5b4aad1e7b'.
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"b23aa0dc-7201-4f4e-8d00-1040449aeb42","pipeName":"/tmp/bee9c62573a64bb19b79a82b1eef2a9c"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 188
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ComponentExportsService","version":"0.1"},{"clientCulture":"ru","clientUICulture":"ru"}]}Content-Length: 191
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"ebf9ff92-4d4b-48cf-8d8e-9225ee01ebea","pipeName":"/tmp/976011c557bd437a8efc5bd74c9cc06b"}}
+02/15/2025 00:16:43 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":5,"result":{"requestId":"179410cd-7103-4ae5-807e-d066a6994a28","pipeName":"/tmp/5016c8672d7b47caabc075aef4060c43"}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 198
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ActiveDocumentsInformationService","version":"0.1"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 236
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NuGetSolutionRestoreService","version":"0.1"},{"activationArguments":{"needEvents":"True"},"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":6,"result":{"requestId":"885968ad-8db0-49ad-95bf-d6cd5b9535c2","pipeName":"/tmp/c2e37fc50e4e4c90b5fd1b032c6d3867"}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":7,"result":{"requestId":"8d4a5f2d-808f-4356-b6f9-05650cebfe5a","pipeName":"/tmp/d93392605fc34de78da99834bdce0f3e"}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 264
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.CpsProjectIconSourceService","version":"0.1"},{"clientCulture":"ru","clientUICulture":"ru"}],"traceparent":"00-dcfb0228851ad04992afc5054d13394d-9d73a6fbedd06a44-00"}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 343
+
+{"jsonrpc":"2.0","id":11,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.CpsProjectIconSourceService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/90e4ce5257"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 366
+
+{"jsonrpc":"2.0","id":12,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/home/albert/.ServiceHub/e414b9b349/a96cc4a7c2"},"ClientCredentials":{},"ClientCulture":"ru","ClientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":11,"result":{"RequestId":"0f4a64da-e508-4ced-84f0-5f19fabe2d31","PipeName":"/home/albert/.ServiceHub/e414b9b349/619fc42be7","IsEmpty":false}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 163
+
+{"jsonrpc":"2.0","id":12,"result":{"RequestId":"836b1714-b3a9-4e49-95f8-2d22a106c992","PipeName":"/home/albert/.ServiceHub/e414b9b349/9a28a41d77","IsEmpty":false}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 146
+
+{"jsonrpc":"2.0","id":8,"result":{"requestId":"0f4a64da-e508-4ced-84f0-5f19fabe2d31","pipeName":"/home/albert/.ServiceHub/e414b9b349/619fc42be7"}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/90e4ce5257'.
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Disposing ServiceBroker server '/home/albert/.ServiceHub/e414b9b349/a96cc4a7c2'.
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":1,"processArchitecture":1,"runtime":2,"runtimeVersion":"9.0.1"}}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer read: Content-Length: 177
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"ru","clientUICulture":"ru"}]}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"1381c248-cc33-480d-b38f-beef9a5b9498","pipeName":"/tmp/10dc31597d0847f6b684bffea8c282f9"}}
+02/15/2025 00:16:44 Иркутск, стандартное время : Information : Microsoft.VisualStudio.CpsProjectIconSourceService-RemoteServiceBrokerServer write: Content-Length: 137
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"c834d907-1f81-400c-b712-669ec947d493","pipeName":"/tmp/9e79e53c35424812844ea37ac0638590"}}
+02/15/2025 00:16:45 Иркутск, стандартное время : Information : VsHubClient-hubController JSON RPC has been disposed
+02/15/2025 00:16:45 Иркутск, стандартное время : Information : VsHubClient-hubController read: end of stream
+02/15/2025 00:16:45 Иркутск, стандартное время : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: end of stream
+02/15/2025 00:16:45 Иркутск, стандартное время : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: end of stream

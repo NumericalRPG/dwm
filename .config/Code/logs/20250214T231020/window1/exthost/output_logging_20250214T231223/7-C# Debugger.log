@@ -1,0 +1,7 @@
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/System.Private.CoreLib.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+ConsoleApp1 (49739): Загружено "/home/albert/Документы/StudentC#/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll". Символы загружены.
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/System.Runtime.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/System.Console.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/System.Threading.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/System.Runtime.InteropServices.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".
+ConsoleApp1 (49739): Загружено "/usr/share/dotnet/shared/Microsoft.NETCore.App/9.0.1/Microsoft.Win32.Primitives.dll". Загрузка символов пропущена. Модуль оптимизирован, включен параметр отладчика "Только мой код".

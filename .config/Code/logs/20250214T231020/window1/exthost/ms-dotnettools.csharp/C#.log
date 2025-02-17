@@ -1,0 +1,17 @@
+2025-02-14 23:10:22.152 [info] Locating .NET runtime version 8.0.10
+2025-02-14 23:10:22.367 [info] Dotnet path: /usr/share/dotnet/dotnet
+2025-02-14 23:10:22.367 [info] Activating C# + C# Dev Kit...
+2025-02-14 23:10:23.479 [info] [stdout] {"pipeName":"/tmp/b648eee6.sock"}
+
+2025-02-14 23:10:23.479 [info] received named pipe information from server
+2025-02-14 23:10:23.480 [info] client has connected to server
+2025-02-14 23:10:23.587 [info] [Info  - 23:10:23] [Program] Language server initialized
+2025-02-14 23:12:27.677 [info] Locating .NET runtime version 8.0.10
+2025-02-14 23:12:27.973 [info] Dotnet path: /usr/share/dotnet/dotnet
+2025-02-14 23:12:27.973 [info] Activating C# + C# Dev Kit...
+2025-02-14 23:12:28.999 [info] [stdout] {"pipeName":"/tmp/413069d9.sock"}
+
+2025-02-14 23:12:28.999 [info] received named pipe information from server
+2025-02-14 23:12:29.000 [info] client has connected to server
+2025-02-14 23:12:29.096 [info] [Info  - 23:12:29] [Program] Language server initialized
+2025-02-14 23:12:32.620 [info] [Info  - 23:12:32] [WorkspaceProjectFactoryService] Проект /home/albert/Документы/StudentC#/ConsoleApp1/ConsoleApp1.csproj загружен при помощи C# Dev Kit

@@ -1,0 +1,8 @@
+[Unit]
+Description=Battery Notify Service
+
+[Service]
+ExecStart=/bin/bash /home/albert/.config/dunst/battery_notify.sh
+
+[Install]
+WantedBy=default.target

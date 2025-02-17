@@ -1,0 +1,10 @@
+2025-02-14 23:07:33.614 [info] --------------------------------------------------------------------------------
+2025-02-14 23:07:33.614 [info] Razor.VSCode version 9.0.0-preview.25064.4
+2025-02-14 23:07:33.614 [info] --------------------------------------------------------------------------------
+2025-02-14 23:07:33.614 [info] Razor's log level is currently set to 'Info'
+2025-02-14 23:07:33.614 [info]  - To change Razor's log level use the gear icon on the output window
+2025-02-14 23:07:33.614 [info]  - To report issues invoke the 'Report a Razor issue' command via the command palette.
+2025-02-14 23:07:33.614 [info] -----------------------------------------------------------------------------------------------------------------------------
+2025-02-14 23:07:33.614 [info] 
+2025-02-14 23:07:33.614 [info] Locating .NET runtime version 8.0.10
+2025-02-14 23:07:33.614 [info] Did not find .NET 8.0.10 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime

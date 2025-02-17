@@ -1,0 +1,9 @@
+2025-02-16 09:12:19.897 [info] Extension host with pid 5025 started
+2025-02-16 09:12:19.939 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-02-16 09:12:20.249 [info] Extension host terminating: renderer closed the MessagePort
+2025-02-16 09:12:20.250 [error] Failed to load translations for vscode.github-authentication from file:///home/albert/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.97.2025021209/translations/extensions/vscode.github-authentication.i18n.json: Canceled
+2025-02-16 09:12:20.277 [warning] Using default string since no string found in i18n bundle that has the key: url handler
+2025-02-16 09:12:20.277 [warning] Using default string since no string found in i18n bundle that has the key: local server
+2025-02-16 09:12:20.277 [warning] Using default string since no string found in i18n bundle that has the key: device code
+2025-02-16 09:12:20.277 [warning] Using default string since no string found in i18n bundle that has the key: personal access token
+2025-02-16 09:12:20.279 [info] Extension host with pid 5025 exiting with code 0

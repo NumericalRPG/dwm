@@ -1,0 +1,14 @@
+2025/02/16-18:55:43.660 ef1 Reusing MANIFEST /home/albert/.config/chromium/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/16-18:55:43.660 ef1 Recovering log #14
+2025/02/16-18:55:43.660 ef1 Reusing old log /home/albert/.config/chromium/Default/IndexedDB/https_www.blackbox.ai_0.indexeddb.leveldb/000014.log 
+2025/02/16-18:55:43.661 ef1 Delete type=2 #12
+2025/02/16-18:55:43.709 ef3 Level-0 table #19: started
+2025/02/16-18:55:43.710 ef3 Level-0 table #19: 665 bytes OK
+2025/02/16-18:55:43.712 ef3 Delete type=0 #14
+2025/02/16-18:55:43.712 ef2 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 147 : 1
+2025/02/16-18:55:43.713 ef2 Compacting 1@0 + 1@1 files
+2025/02/16-18:55:43.714 ef2 Generated table #20@0: 42 keys, 1265 bytes
+2025/02/16-18:55:43.714 ef2 Compacted 1@0 + 1@1 files => 1265 bytes
+2025/02/16-18:55:43.715 ef2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/16-18:55:43.716 ef2 Delete type=2 #19
+2025/02/16-18:55:43.716 ef2 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 147 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

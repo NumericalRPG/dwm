@@ -1,0 +1,9 @@
+2025-02-14 23:07:33.457 [info] Locating .NET runtime version 8.0.10
+2025-02-14 23:07:33.460 [info] Пакет SDK .NET Core не удалось найти: Error running dotnet --info: Error: Command failed: dotnet --info
+/bin/sh: строка 1: dotnet: команда не найдена
+
+
+/bin/sh: строка 1: dotnet: команда не найдена
+. Отладка .NET Core не будет включена. Убедитесь, что SDK .NET Core установлен и находится по данному пути.
+
+2025-02-14 23:07:33.612 [info] Did not find .NET 8.0.10 on path, falling back to acquire runtime via ms-dotnettools.vscode-dotnet-runtime

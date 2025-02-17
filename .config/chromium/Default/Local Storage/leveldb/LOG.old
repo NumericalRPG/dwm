@@ -1,0 +1,39 @@
+2025/02/17-14:45:26.010 4 Reusing MANIFEST /home/albert/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/17-14:45:26.016 4 Recovering log #184
+2025/02/17-14:45:26.018 4 Reusing old log /home/albert/.config/chromium/Default/Local Storage/leveldb/000184.log 
+2025/02/17-15:04:40.692 4 Level-0 table #188: started
+2025/02/17-15:04:40.699 4 Level-0 table #188: 20293 bytes OK
+2025/02/17-15:04:40.705 4 Delete type=0 #184
+2025/02/17-15:08:22.976 5 Level-0 table #190: started
+2025/02/17-15:08:22.998 5 Level-0 table #190: 66811 bytes OK
+2025/02/17-15:08:23.003 5 Delete type=0 #187
+2025/02/17-15:08:23.004 5 Compacting 4@0 + 1@1 files
+2025/02/17-15:08:23.012 5 Generated table #191@0: 468 keys, 531398 bytes
+2025/02/17-15:08:23.013 5 Compacted 4@0 + 1@1 files => 531398 bytes
+2025/02/17-15:08:23.014 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/17-15:08:23.015 5 Delete type=2 #190
+2025/02/17-15:08:23.015 5 Delete type=2 #183
+2025/02/17-15:08:23.015 5 Delete type=2 #181
+2025/02/17-15:08:23.015 5 Delete type=2 #188
+2025/02/17-15:08:23.016 5 Delete type=2 #185
+2025/02/17-15:08:34.285 4 Level-0 table #193: started
+2025/02/17-15:08:34.305 4 Level-0 table #193: 791807 bytes OK
+2025/02/17-15:08:34.309 4 Delete type=0 #189
+2025/02/17-15:09:50.932 5 Level-0 table #195: started
+2025/02/17-15:09:50.949 5 Level-0 table #195: 702014 bytes OK
+2025/02/17-15:09:50.953 5 Delete type=0 #192
+2025/02/17-15:27:40.692 4 Level-0 table #197: started
+2025/02/17-15:27:40.695 4 Level-0 table #197: 35828 bytes OK
+2025/02/17-15:27:40.699 4 Delete type=0 #194
+2025/02/17-15:34:59.449 4 Level-0 table #199: started
+2025/02/17-15:34:59.455 4 Level-0 table #199: 16101 bytes OK
+2025/02/17-15:34:59.460 4 Delete type=0 #196
+2025/02/17-15:34:59.461 4 Compacting 4@0 + 1@1 files
+2025/02/17-15:34:59.487 4 Generated table #200@0: 515 keys, 1351986 bytes
+2025/02/17-15:34:59.487 4 Compacted 4@0 + 1@1 files => 1351986 bytes
+2025/02/17-15:34:59.489 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/17-15:34:59.491 4 Delete type=2 #193
+2025/02/17-15:34:59.491 4 Delete type=2 #197
+2025/02/17-15:34:59.491 4 Delete type=2 #199
+2025/02/17-15:34:59.491 4 Delete type=2 #195
+2025/02/17-15:34:59.491 4 Delete type=2 #191

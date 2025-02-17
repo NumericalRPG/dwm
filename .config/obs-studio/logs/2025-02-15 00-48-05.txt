@@ -1,0 +1,264 @@
+00:48:05.478: Using EGL/X11
+00:48:05.478: CPU Name: Intel(R) Core(TM) Ultra 5 125H
+00:48:05.478: CPU Speed: 400.000MHz
+00:48:05.478: Physical Cores: 14, Logical Cores: 18
+00:48:05.478: Physical Memory: 31729MB Total, 28101MB Free
+00:48:05.478: Kernel Version: Linux 6.13.2-arch1-1
+00:48:05.478: Distribution: "EndeavourOS" Unknown
+00:48:05.478: Session Type: tty
+00:48:05.478: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+00:48:05.479: Qt Version: 6.8.2 (runtime), 6.8.1 (compiled)
+00:48:05.479: Portable mode: false
+00:48:05.564: OBS 31.0.1 (linux)
+00:48:05.564: ---------------------------------
+00:48:05.565: ---------------------------------
+00:48:05.565: audio settings reset:
+00:48:05.565: 	samples per sec: 48000
+00:48:05.565: 	speakers:        2
+00:48:05.565: 	max buffering:   960 milliseconds
+00:48:05.565: 	buffering type:  dynamically increasing
+00:48:05.566: ---------------------------------
+00:48:05.566: Initializing OpenGL...
+00:48:05.650: Loading up OpenGL on adapter Intel Mesa Intel(R) Arc(tm) Graphics (MTL)
+00:48:05.650: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.3.4-arch1.1, shading language 4.60
+00:48:05.692: ---------------------------------
+00:48:05.692: video settings reset:
+00:48:05.692: 	base resolution:   1920x1200
+00:48:05.692: 	output resolution: 1920x1200
+00:48:05.692: 	downscale filter:  Bicubic
+00:48:05.692: 	fps:               60/1
+00:48:05.692: 	format:            NV12
+00:48:05.692: 	YUV mode:          Rec. 709/Partial
+00:48:05.692: NV12 texture support enabled
+00:48:05.692: P010 texture support not available
+00:48:05.705: Audio monitoring device:
+00:48:05.705: 	name: По умолчанию
+00:48:05.705: 	id: default
+00:48:05.706: ---------------------------------
+00:48:05.717: Failed to load 'en-US' text for module: 'decklink-captions.so'
+00:48:05.724: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+00:48:05.733: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:48:05.733: Failed to initialize module 'decklink.so'
+00:48:05.914: [pipewire] No capture sources available
+00:48:05.944: v4l2loopback not installed, virtual camera not registered
+00:48:06.009: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+00:48:06.009: FFmpeg VAAPI H264 encoding not supported
+00:48:06.009: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+00:48:06.009: FFmpeg VAAPI AV1 encoding not supported
+00:48:06.009: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+00:48:06.010: FFmpeg VAAPI HEVC encoding not supported
+00:48:06.040: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: невозможно открыть разделяемый объектный файл: Нет такого файла или каталога
+00:48:06.040: 
+00:48:06.040: NVENC not supported
+00:48:06.040: Failed to initialize module 'obs-nvenc.so'
+00:48:06.125: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: невозможно открыть разделяемый объектный файл: Нет такого файла или каталога
+00:48:06.125: 
+00:48:06.129: os_dlopen(/usr/lib/obs-plugins/obs-websocket.so->/usr/lib/obs-plugins/obs-websocket.so): libqrcodegencpp.so.1: невозможно открыть разделяемый объектный файл: Нет такого файла или каталога
+00:48:06.129: 
+00:48:06.129: Module '/usr/lib/obs-plugins/obs-websocket.so' not loaded
+00:48:06.159: ---------------------------------
+00:48:06.159:   Loaded Modules:
+00:48:06.159:     text-freetype2.so
+00:48:06.159:     rtmp-services.so
+00:48:06.159:     obs-x264.so
+00:48:06.159:     obs-webrtc.so
+00:48:06.159:     obs-vst.so
+00:48:06.159:     obs-transitions.so
+00:48:06.159:     obs-qsv11.so
+00:48:06.159:     obs-outputs.so
+00:48:06.159:     obs-libfdk.so
+00:48:06.159:     obs-filters.so
+00:48:06.159:     obs-ffmpeg.so
+00:48:06.159:     linux-v4l2.so
+00:48:06.159:     linux-pulseaudio.so
+00:48:06.159:     linux-pipewire.so
+00:48:06.159:     linux-jack.so
+00:48:06.159:     linux-capture.so
+00:48:06.159:     linux-alsa.so
+00:48:06.159:     image-source.so
+00:48:06.159:     frontend-tools.so
+00:48:06.159:     decklink-output-ui.so
+00:48:06.159:     decklink-captions.so
+00:48:06.159: ---------------------------------
+00:48:06.159: ---------------------------------
+00:48:06.159: Available Encoders:
+00:48:06.159:   Video Encoders:
+00:48:06.159: 	- ffmpeg_svt_av1 (SVT-AV1)
+00:48:06.159: 	- ffmpeg_aom_av1 (AOM AV1)
+00:48:06.159: 	- obs_x264 (x264)
+00:48:06.159:   Audio Encoders:
+00:48:06.159: 	- ffmpeg_aac (FFmpeg AAC)
+00:48:06.159: 	- ffmpeg_opus (FFmpeg Opus)
+00:48:06.159: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16 бит))
+00:48:06.159: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24 бита))
+00:48:06.159: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32 бита с пл. тчк.))
+00:48:06.159: 	- ffmpeg_alac (FFmpeg ALAC (24 бита))
+00:48:06.159: 	- ffmpeg_flac (FFmpeg FLAC (16 бит))
+00:48:06.159: 	- libfdk_aac (libfdk AAC)
+00:48:06.159: ==== Startup complete ===============================================
+00:48:06.206: All scene data cleared
+00:48:06.206: ------------------------------------------------
+00:48:06.215: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:48:06.216: pulse-input: Audio format: s32le, 48000 Hz, 2 channels
+00:48:06.216: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink.monitor' (default)
+00:48:06.216: [Loaded global audio device]: 'Звук раб. стола'
+00:48:06.217: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.7) 15.0.0'
+00:48:06.217: pulse-input: Audio format: s32le, 48000 Hz, 4 channels
+00:48:06.218: pulse-input: Started recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source' (default)
+00:48:06.218: [Loaded global audio device]: 'Микр/доп'
+00:48:06.219: xshm-input: Geometry 2880x1800 @ 0,0
+00:48:06.239: Switched to scene 'Сцена'
+00:48:06.240: ------------------------------------------------
+00:48:06.240: Loaded scenes:
+00:48:06.240: - scene 'Сцена':
+00:48:06.240:     - source: 'Захват экрана (XSHM)' (xshm_input_v2)
+00:48:06.240: ------------------------------------------------
+00:48:06.931: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Звук раб. стола)
+00:48:06.931: 
+00:48:06.995: adding 0 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Микр/доп)
+00:48:06.995: 
+00:48:07.016: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Микр/доп)
+00:48:07.016: 
+00:48:07.037: adding 21 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Микр/доп)
+00:48:07.037: 
+00:48:07.058: adding 21 milliseconds of audio buffering, total audio buffering is now 85 milliseconds (source: Микр/доп)
+00:48:07.058: 
+00:48:07.080: adding 21 milliseconds of audio buffering, total audio buffering is now 106 milliseconds (source: Микр/доп)
+00:48:07.080: 
+00:48:07.101: adding 21 milliseconds of audio buffering, total audio buffering is now 128 milliseconds (source: Микр/доп)
+00:48:07.101: 
+00:48:07.122: adding 21 milliseconds of audio buffering, total audio buffering is now 149 milliseconds (source: Микр/доп)
+00:48:07.122: 
+00:48:07.144: adding 21 milliseconds of audio buffering, total audio buffering is now 170 milliseconds (source: Микр/доп)
+00:48:07.144: 
+00:48:07.165: adding 21 milliseconds of audio buffering, total audio buffering is now 192 milliseconds (source: Микр/доп)
+00:48:07.165: 
+00:48:07.187: adding 21 milliseconds of audio buffering, total audio buffering is now 213 milliseconds (source: Микр/доп)
+00:48:07.187: 
+00:48:07.208: adding 21 milliseconds of audio buffering, total audio buffering is now 234 milliseconds (source: Микр/доп)
+00:48:07.208: 
+00:48:07.229: adding 21 milliseconds of audio buffering, total audio buffering is now 256 milliseconds (source: Микр/доп)
+00:48:07.229: 
+00:48:07.251: adding 21 milliseconds of audio buffering, total audio buffering is now 277 milliseconds (source: Микр/доп)
+00:48:07.251: 
+00:48:07.272: adding 21 milliseconds of audio buffering, total audio buffering is now 298 milliseconds (source: Микр/доп)
+00:48:07.272: 
+00:48:07.293: adding 21 milliseconds of audio buffering, total audio buffering is now 320 milliseconds (source: Микр/доп)
+00:48:07.293: 
+00:48:07.315: adding 21 milliseconds of audio buffering, total audio buffering is now 341 milliseconds (source: Микр/доп)
+00:48:07.315: 
+00:48:07.336: adding 21 milliseconds of audio buffering, total audio buffering is now 362 milliseconds (source: Микр/доп)
+00:48:07.336: 
+00:48:07.357: adding 21 milliseconds of audio buffering, total audio buffering is now 384 milliseconds (source: Микр/доп)
+00:48:07.357: 
+00:48:07.379: adding 21 milliseconds of audio buffering, total audio buffering is now 405 milliseconds (source: Микр/доп)
+00:48:07.379: 
+00:48:07.400: adding 21 milliseconds of audio buffering, total audio buffering is now 426 milliseconds (source: Микр/доп)
+00:48:07.400: 
+00:48:07.421: adding 21 milliseconds of audio buffering, total audio buffering is now 448 milliseconds (source: Микр/доп)
+00:48:07.421: 
+00:48:07.443: adding 21 milliseconds of audio buffering, total audio buffering is now 469 milliseconds (source: Микр/доп)
+00:48:07.443: 
+00:48:07.464: adding 21 milliseconds of audio buffering, total audio buffering is now 490 milliseconds (source: Микр/доп)
+00:48:07.464: 
+00:48:07.485: adding 21 milliseconds of audio buffering, total audio buffering is now 512 milliseconds (source: Микр/доп)
+00:48:07.485: 
+00:48:07.507: adding 21 milliseconds of audio buffering, total audio buffering is now 533 milliseconds (source: Микр/доп)
+00:48:07.507: 
+00:48:07.528: adding 21 milliseconds of audio buffering, total audio buffering is now 554 milliseconds (source: Микр/доп)
+00:48:07.528: 
+00:48:07.549: adding 21 milliseconds of audio buffering, total audio buffering is now 576 milliseconds (source: Микр/доп)
+00:48:07.549: 
+00:48:07.571: adding 21 milliseconds of audio buffering, total audio buffering is now 597 milliseconds (source: Микр/доп)
+00:48:07.571: 
+00:48:07.592: adding 21 milliseconds of audio buffering, total audio buffering is now 618 milliseconds (source: Микр/доп)
+00:48:07.592: 
+00:48:07.613: adding 21 milliseconds of audio buffering, total audio buffering is now 640 milliseconds (source: Микр/доп)
+00:48:07.613: 
+00:48:07.635: adding 21 milliseconds of audio buffering, total audio buffering is now 661 milliseconds (source: Микр/доп)
+00:48:07.635: 
+00:48:07.656: adding 21 milliseconds of audio buffering, total audio buffering is now 682 milliseconds (source: Микр/доп)
+00:48:07.656: 
+00:48:07.677: adding 21 milliseconds of audio buffering, total audio buffering is now 704 milliseconds (source: Микр/доп)
+00:48:07.677: 
+00:48:07.699: adding 21 milliseconds of audio buffering, total audio buffering is now 725 milliseconds (source: Микр/доп)
+00:48:07.699: 
+00:48:07.720: adding 21 milliseconds of audio buffering, total audio buffering is now 746 milliseconds (source: Микр/доп)
+00:48:07.720: 
+00:48:07.933: Last log entry repeated for 9 more lines
+00:48:07.933: Max audio buffering reached!
+00:48:07.933: adding 21 milliseconds of audio buffering, total audio buffering is now 960 milliseconds (source: Микр/доп)
+00:48:07.933: 
+00:48:10.822: User Removed source 'Захват экрана (XSHM)' (xshm_input_v2) from scene 'Сцена'
+00:48:14.484: Get on org.freedesktop.portal.Settings returned an invalid reply
+00:48:14.484: Get on org.freedesktop.portal.Settings returned an invalid reply
+00:48:44.226: ==== Shutting down ==================================================
+00:48:44.252: pulse-input: Stopped recording from 'alsa_output.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Speaker__sink.monitor'
+00:48:44.252: pulse-input: Got 1514 packets with 1816800 frames
+00:48:44.252: pulse-input: Stopped recording from 'alsa_input.pci-0000_00_1f.3-platform-skl_hda_dsp_generic.HiFi__Mic1__source'
+00:48:44.252: pulse-input: Got 1512 packets with 1814400 frames
+00:48:44.289: All scene data cleared
+00:48:44.289: ------------------------------------------------
+00:48:44.340: [Scripting] Total detached callbacks: 0
+00:48:44.340: Freeing OBS context data
+00:48:44.366: == Profiler Results =============================
+00:48:44.366: run_program_init: 980.736 ms
+00:48:44.366:  ┣OBSApp::AppInit: 15.545 ms
+00:48:44.366:  ┃ ┗OBSApp::InitLocale: 1.847 ms
+00:48:44.366:  ┗OBSApp::OBSInit: 926.222 ms
+00:48:44.366:    ┣obs_startup: 1.444 ms
+00:48:44.366:    ┗OBSBasic::OBSInit: 839.793 ms
+00:48:44.366:      ┣OBSBasic::InitBasicConfig: 0.777 ms
+00:48:44.366:      ┣OBSBasic::ResetAudio: 0.163 ms
+00:48:44.366:      ┣OBSBasic::ResetVideo: 140.538 ms
+00:48:44.366:      ┃ ┗obs_init_graphics: 126.662 ms
+00:48:44.366:      ┃   ┗shader compilation: 39.051 ms
+00:48:44.366:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+00:48:44.366:      ┣OBSBasic::InitHotkeys: 0.038 ms
+00:48:44.366:      ┣obs_load_all_modules2: 452.801 ms
+00:48:44.366:      ┃ ┣obs_init_module(decklink-captions.so): 0 ms
+00:48:44.366:      ┃ ┣obs_init_module(decklink-output-ui.so): 0 ms
+00:48:44.366:      ┃ ┣obs_init_module(decklink.so): 0.156 ms
+00:48:44.366:      ┃ ┣obs_init_module(frontend-tools.so): 96.633 ms
+00:48:44.366:      ┃ ┣obs_init_module(image-source.so): 0.011 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-alsa.so): 0.004 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-capture.so): 1.289 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-jack.so): 0.004 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-pipewire.so): 17.508 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-pulseaudio.so): 0.008 ms
+00:48:44.366:      ┃ ┣obs_init_module(linux-v4l2.so): 7.256 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-ffmpeg.so): 1.273 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-filters.so): 0.038 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-libfdk.so): 0.001 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-nvenc.so): 0.201 ms
+00:48:44.366:      ┃ ┃ ┗nvenc_check: 0.185 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-outputs.so): 0.004 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-qsv11.so): 0.979 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-transitions.so): 0.013 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-vst.so): 0.005 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-webrtc.so): 0.007 ms
+00:48:44.366:      ┃ ┣obs_init_module(obs-x264.so): 0.002 ms
+00:48:44.366:      ┃ ┣obs_init_module(rtmp-services.so): 1.335 ms
+00:48:44.366:      ┃ ┗obs_init_module(text-freetype2.so): 0.018 ms
+00:48:44.366:      ┣OBSBasic::InitService: 1.859 ms
+00:48:44.366:      ┣OBSBasic::ResetOutputs: 0.331 ms
+00:48:44.366:      ┣OBSBasic::CreateHotkeys: 0.045 ms
+00:48:44.366:      ┣OBSBasic::InitPrimitives: 0.165 ms
+00:48:44.366:      ┗OBSBasic::Load: 78.311 ms
+00:48:44.366: obs_hotkey_thread(25 ms): min=0.061 ms, median=0.602 ms, max=34.519 ms, 99th percentile=7.374 ms, 99.7993% below 25 ms
+00:48:44.366: audio_thread(Audio): min=0.008 ms, median=0.096 ms, max=2.564 ms, 99th percentile=0.301 ms
+00:48:44.366: obs_graphics_thread(16.6667 ms): min=0.064 ms, median=1.654 ms, max=48.995 ms, 99th percentile=11.71 ms, 99.5244% below 16.667 ms
+00:48:44.366:  ┣tick_sources: min=0 ms, median=0.019 ms, max=47.912 ms, 99th percentile=9.797 ms
+00:48:44.366:  ┣output_frame: min=0.037 ms, median=0.289 ms, max=4.328 ms, 99th percentile=0.582 ms
+00:48:44.366:  ┃ ┗gs_context(video->graphics): min=0.037 ms, median=0.289 ms, max=4.323 ms, 99th percentile=0.582 ms
+00:48:44.366:  ┃   ┣render_video: min=0.008 ms, median=0.056 ms, max=2.2 ms, 99th percentile=0.146 ms
+00:48:44.366:  ┃   ┃ ┗render_main_texture: min=0.007 ms, median=0.048 ms, max=2.161 ms, 99th percentile=0.141 ms
+00:48:44.366:  ┃   ┗gs_flush: min=0.02 ms, median=0.256 ms, max=4.221 ms, 99th percentile=0.506 ms
+00:48:44.366:  ┗render_displays: min=0.002 ms, median=1.099 ms, max=31.298 ms, 99th percentile=4.313 ms
+00:48:44.366: OBSBasicSettings::LoadThemeList: 0.046 ms
+00:48:44.366: =================================================
+00:48:44.366: == Profiler Time Between Calls ==================
+00:48:44.366: obs_hotkey_thread(25 ms): min=25.088 ms, median=25.745 ms, max=59.661 ms, 36.4123% within ±2% of 25 ms (0% lower, 63.5877% higher)
+00:48:44.366: obs_graphics_thread(16.6667 ms): min=4.598 ms, median=16.667 ms, max=49.002 ms, 98.6159% within ±2% of 16.667 ms (0.821799% lower, 0.562284% higher)
+00:48:44.366: =================================================
+00:48:44.377: Number of memory leaks: 0

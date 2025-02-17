@@ -1,0 +1,10 @@
+﻿02/16/2025 09:12:21 Иркутск, стандартное время : Information : Local timezone is (UTC+08:00) Иркутск, стандартное время
+02/16/2025 09:12:21 Иркутск, стандартное время : Information : VsHubClient-hubController write: Content-Length: 108
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":5066}]}
+02/16/2025 09:12:21 Иркутск, стандартное время : Information : VsHubClient-hubController read: Content-Length: 432
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://510631B6CD","ControllerConfig":{"Executable":"/home/albert/.vscode/extensions/ms-dotnettools.csdevkit-1.16.6-linux-x64/components/vs-green-server/platforms/linux-x64/node_modules/@microsoft/servicehub-controller-net60.linux-x64/Microsoft.ServiceHub.Controller","Args":["1943b1a3fe"],"PipeName":"1943b1a3fe"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+02/16/2025 09:12:21 Иркутск, стандартное время : Information : Connected to Hub Controller's client watch 'net.pipe://510631B6CD
+02/16/2025 09:12:21 Иркутск, стандартное время : Information : VsHubClient-hubController JSON RPC has been disposed
+02/16/2025 09:12:21 Иркутск, стандартное время : Information : VsHubClient-hubController read: end of stream

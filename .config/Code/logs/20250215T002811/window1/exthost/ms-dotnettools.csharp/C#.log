@@ -1,0 +1,8 @@
+2025-02-15 00:28:15.317 [info] Locating .NET runtime version 8.0.10
+2025-02-15 00:28:15.317 [info] Dotnet path: /usr/share/dotnet/dotnet
+2025-02-15 00:28:15.317 [info] Activating C# + C# Dev Kit...
+2025-02-15 00:28:16.910 [info] [stdout] {"pipeName":"/tmp/3df36a12.sock"}
+
+2025-02-15 00:28:16.910 [info] received named pipe information from server
+2025-02-15 00:28:16.911 [info] client has connected to server
+2025-02-15 00:28:17.108 [info] [Info  - 00:28:17] [Program] Language server initialized
